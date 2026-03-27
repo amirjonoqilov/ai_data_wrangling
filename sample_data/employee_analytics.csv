@@ -1,0 +1,1541 @@
+employee_id,department,level,years_experience,age,education,salary,performance_score,remote_days_per_week,city,hire_date,attrition
+EMP00001,HR,Manager,5,48.0,Associate,120300.0,2.51,5.0,New York,2010-01-01,No
+EMP00002,Operations,Junior,0,44.0,Master,45200.0,3.64,1.0,New York,2010-01-04,No
+EMP00003,HR,Mid,6,61.0,High School,56800.0,2.32,3.0,san francisco,2010-01-07,No
+EMP00004,Sales,Director,25,54.0,Associate,59800.0,4.51,0.0,  new york,2010-01-11,No
+EMP00005,HR,Junior,14,35.0,High School,5000.0,1.43,5.0,san francisco,2010-01-14,No
+EMP00006,Sales,Director,6,44.0,High School,77300.0,1.15,3.0,San Francisco,2010-01-18,No
+EMP00007,Engineering,Junior,18,52.0,Master,52200.0,1.83,0.0,San Francisco,2010-01-21,No
+EMP00008,Sales,Manager,19,34.0,Master,95300.0,2.14,0.0,Chicago,2010-01-24,No
+EMP00009,Sales,Lead,21,33.0,High School,98500.0,1.45,,Chicago,2010-01-28,No
+EMP00010,HR,Lead,29,56.0,Bachelor,80800.0,1.26,0.0,Chicago,2010-01-31,Yes
+EMP00011,Operations,Director,10,39.0,High School,81100.0,4.02,5.0,san francisco,2010-02-04,No
+EMP00012,Engineering,Manager,22,42.0,High School,79100.0,1.66,1.0,Chicago,2010-02-07,Yes
+EMP00013,Finance,Manager,13,63.0,Master,57500.0,4.66,5.0,  new york,2010-02-10,No
+EMP00014,Finance,Manager,12,22.0,PhD,59600.0,2.47,5.0,san francisco,2010-02-14,Yes
+EMP00015,Operations,Mid,19,59.0,Associate,108100.0,3.68,3.0,Boston,2010-02-17,No
+EMP00016,Finance,Senior,25,62.0,Master,93400.0,1.9,2.0,Boston,2010-02-21,Yes
+EMP00017,Engineering,Junior,26,63.0,Bachelor,,1.96,2.0,New York,2010-02-24,No
+EMP00018,Marketing,Manager,24,30.0,Associate,90000.0,3.3,,San Francisco,2010-02-27,Yes
+EMP00019,Engineering,Manager,8,44.0,Master,73500.0,3.24,2.0,  new york,2010-03-03,No
+EMP00020,HR,Manager,8,35.0,Master,79600.0,4.07,3.0,San Francisco,2010-03-06,No
+EMP00021,Legal,Lead,15,32.0,PhD,89900.0,,4.0,Austin,2010-03-10,No
+EMP00022,Sales,Manager,11,28.0,Bachelor,23100.0,3.68,,San Francisco,2010-03-13,No
+EMP00023,Sales,Junior,9,52.0,Bachelor,97700.0,2.8,3.0,San Francisco,2010-03-17,No
+EMP00024,HR,Manager,5,45.0,Master,95900.0,4.56,0.0,Seattle,2010-03-20,No
+EMP00025,HR,Junior,17,47.0,PhD,55500.0,,5.0,Seattle,2010-03-23,No
+EMP00026,Legal,Mid,1,51.0,Master,,4.96,4.0,  new york,2010-03-27,No
+EMP00027,Legal,Senior,26,55.0,High School,19600.0,4.28,0.0,Austin,2010-03-30,No
+EMP00028,Sales,Lead,19,59.0,High School,83800.0,1.18,,Chicago,2010-04-03,
+EMP00029,Legal,Junior,8,26.0,PhD,,,5.0,Austin,2010-04-06,No
+EMP00030,Legal,Director,18,26.0,Master,67300.0,3.29,5.0,Austin,2010-04-09,
+EMP00031,Legal,Mid,5,40.0,PhD,75500.0,,,New York,2010-04-13,No
+EMP00032,Operations,Senior,1,59.0,Master,-1000.0,3.2,0.0,Boston,2010-04-16,No
+EMP00033,Marketing,Senior,14,,Master,29900.0,4.14,3.0,San Francisco,2010-04-20,No
+EMP00034,Legal,Senior,16,47.0,High School,100000.0,2.13,2.0,New York,2010-04-23,No
+EMP00035,Marketing,Junior,15,63.0,Associate,64700.0,1.74,4.0,  new york,2010-04-26,No
+EMP00036,Marketing,Mid,27,44.0,Bachelor,100400.0,1.22,,Boston,2010-04-30,Yes
+EMP00037,HR,Manager,20,51.0,Bachelor,91100.0,3.29,,  new york,2010-05-03,No
+EMP00038,Legal,Director,7,24.0,PhD,64200.0,3.75,5.0,San Francisco,2010-05-07,
+EMP00039,Sales,Mid,9,49.0,Bachelor,73000.0,2.3,1.0,  new york,2010-05-10,No
+EMP00040,Operations,Mid,9,54.0,High School,74500.0,3.45,5.0,Austin,2010-05-14,No
+EMP00041,Sales,Mid,17,63.0,Associate,115200.0,1.21,2.0,san francisco,2010-05-17,No
+EMP00042,Legal,Junior,9,24.0,Master,46500.0,,5.0,San Francisco,2010-05-20,No
+EMP00043,Sales,Director,8,26.0,Master,64000.0,3.81,1.0,Chicago,2010-05-24,Yes
+EMP00044,Legal,Junior,27,,High School,35400.0,2.47,,Chicago,2010-05-27,No
+EMP00045,Operations,Director,23,63.0,Bachelor,78100.0,3.69,3.0,Austin,2010-05-31,No
+EMP00046,Engineering,Director,18,22.0,Master,59400.0,4.33,5.0,  new york,2010-06-03,No
+EMP00047,Operations,Junior,0,59.0,Bachelor,62400.0,4.41,4.0,Seattle,2010-06-06,No
+EMP00048,Engineering,Director,3,30.0,High School,112100.0,1.69,3.0,Chicago,2010-06-10,No
+EMP00049,Finance,Mid,23,26.0,Master,54400.0,2.95,1.0,Austin,2010-06-13,No
+EMP00050,Engineering,Junior,2,63.0,PhD,71000.0,3.94,0.0,New York,2010-06-17,No
+EMP00051,Marketing,Director,9,55.0,Associate,63500.0,4.1,5.0,Seattle,2010-06-20,No
+EMP00052,Marketing,Senior,11,58.0,Bachelor,65100.0,4.14,,Chicago,2010-06-23,No
+EMP00053,Operations,Junior,17,54.0,Bachelor,144300.0,1.91,,san francisco,2010-06-27,No
+EMP00054,Marketing,Lead,22,46.0,Bachelor,31600.0,1.77,3.0,Austin,2010-06-30,No
+EMP00055,Marketing,Junior,19,63.0,Bachelor,91100.0,3.36,5.0,Austin,2010-07-04,Yes
+EMP00056,Finance,Junior,5,50.0,High School,135700.0,3.96,4.0,New York,2010-07-07,Yes
+EMP00057,Marketing,Junior,20,46.0,High School,102000.0,2.28,5.0,san francisco,2010-07-11,No
+EMP00058,HR,Director,1,30.0,High School,76200.0,1.42,3.0,New York,2010-07-14,No
+EMP00059,HR,Junior,9,24.0,High School,45700.0,3.87,2.0,Seattle,2010-07-17,No
+EMP00060,HR,Lead,1,36.0,Master,107600.0,2.2,3.0,Boston,2010-07-21,No
+EMP00061,Engineering,Manager,29,25.0,High School,98400.0,1.67,1.0,Chicago,2010-07-24,No
+EMP00062,Operations,Junior,8,59.0,Master,36800.0,1.59,3.0,Austin,2010-07-28,No
+EMP00063,Operations,Senior,26,41.0,PhD,67000.0,2.26,,Seattle,2010-07-31,No
+EMP00064,Sales,Lead,9,44.0,High School,44800.0,3.37,4.0,  new york,2010-08-03,Yes
+EMP00065,Finance,Manager,1,58.0,PhD,3500.0,2.43,3.0,Seattle,2010-08-07,No
+EMP00066,HR,Director,7,29.0,High School,44300.0,1.08,3.0,  new york,2010-08-10,No
+EMP00067,HR,Junior,23,58.0,PhD,77600.0,1.39,4.0,New York,2010-08-14,No
+EMP00068,Marketing,Manager,16,54.0,Associate,89500.0,2.16,3.0,Austin,2010-08-17,
+EMP00069,HR,Senior,16,54.0,PhD,66900.0,3.64,,San Francisco,2010-08-20,Yes
+EMP00070,Marketing,Lead,28,28.0,Master,109400.0,1.39,4.0,Boston,2010-08-24,No
+EMP00071,Marketing,Lead,3,43.0,Bachelor,100700.0,3.24,,Boston,2010-08-27,No
+EMP00072,Sales,Director,17,26.0,PhD,,1.48,,New York,2010-08-31,No
+EMP00073,Engineering,Director,11,,Bachelor,68700.0,1.85,,  new york,2010-09-03,No
+EMP00074,Marketing,Director,16,42.0,Associate,84600.0,1.69,1.0,Austin,2010-09-06,No
+EMP00075,Marketing,Manager,8,46.0,Associate,74600.0,1.27,4.0,san francisco,2010-09-10,
+EMP00076,Operations,Junior,28,38.0,Master,39400.0,3.69,1.0,Seattle,2010-09-13,No
+EMP00077,Sales,Mid,18,28.0,Master,67600.0,2.85,1.0,Boston,2010-09-17,Yes
+EMP00078,Marketing,Lead,13,40.0,PhD,91600.0,4.32,4.0,Seattle,2010-09-20,Yes
+EMP00079,Finance,Mid,13,28.0,High School,107900.0,1.4,3.0,Chicago,2010-09-24,No
+EMP00080,Engineering,Lead,29,61.0,Associate,99000.0,,5.0,San Francisco,2010-09-27,No
+EMP00081,Finance,Director,16,45.0,Bachelor,83400.0,2.23,2.0,New York,2010-09-30,No
+EMP00082,HR,Junior,1,32.0,High School,111400.0,4.06,5.0,  new york,2010-10-04,No
+EMP00083,Engineering,Junior,7,62.0,Associate,85600.0,,,Boston,2010-10-07,No
+EMP00084,HR,Lead,4,22.0,PhD,72800.0,2.63,4.0,san francisco,2010-10-11,No
+EMP00085,Operations,Manager,26,53.0,Associate,,2.21,3.0,Chicago,2010-10-14,No
+EMP00086,Legal,Director,6,61.0,Master,93000.0,1.32,1.0,san francisco,2010-10-17,No
+EMP00087,Legal,Junior,21,23.0,Bachelor,107600.0,4.76,0.0,Chicago,2010-10-21,No
+EMP00088,Legal,Junior,28,36.0,Bachelor,45300.0,3.19,2.0,San Francisco,2010-10-24,No
+EMP00089,Marketing,Senior,15,42.0,Master,53500.0,4.15,5.0,New York,2010-10-28,Yes
+EMP00090,Sales,Junior,15,45.0,High School,54600.0,3.63,3.0,New York,2010-10-31,No
+EMP00091,Finance,Senior,16,38.0,Master,79500.0,3.06,,Seattle,2010-11-03,No
+EMP00092,HR,Junior,21,30.0,Bachelor,120600.0,1.36,2.0,New York,2010-11-07,No
+EMP00093,Marketing,Junior,26,,PhD,46500.0,3.57,,Chicago,2010-11-10,No
+EMP00094,Legal,Manager,6,41.0,High School,97600.0,1.62,0.0,Seattle,2010-11-14,No
+EMP00095,Finance,Manager,19,40.0,Associate,44900.0,2.66,0.0,New York,2010-11-17,No
+EMP00096,Finance,Director,7,39.0,PhD,500000.0,3.52,0.0,  new york,2010-11-21,Yes
+EMP00097,Operations,Junior,7,41.0,High School,35100.0,4.13,5.0,  new york,2010-11-24,No
+EMP00098,Operations,Director,22,,Bachelor,93500.0,3.74,,San Francisco,2010-11-27,Yes
+EMP00099,Legal,Director,10,61.0,Bachelor,97000.0,3.69,4.0,Chicago,2010-12-01,No
+EMP00100,HR,Director,14,22.0,PhD,90500.0,1.6,2.0,Austin,2010-12-04,Yes
+EMP00101,Legal,Director,17,45.0,High School,53100.0,2.38,4.0,San Francisco,2010-12-08,
+EMP00102,Legal,Lead,5,,Associate,48600.0,1.17,,San Francisco,2010-12-11,No
+EMP00103,Marketing,Lead,21,40.0,Associate,106800.0,,0.0,New York,2010-12-14,No
+EMP00104,Sales,Junior,11,51.0,Master,101200.0,4.81,3.0,Seattle,2010-12-18,Yes
+EMP00105,Legal,Lead,14,47.0,PhD,,2.06,0.0,san francisco,2010-12-21,No
+EMP00106,HR,Junior,27,63.0,High School,103900.0,1.35,4.0,Seattle,2010-12-25,No
+EMP00107,Finance,Manager,22,59.0,PhD,36600.0,2.9,0.0,  new york,2010-12-28,No
+EMP00108,Finance,Mid,5,50.0,Associate,35900.0,4.43,,Chicago,2010-12-31,No
+EMP00109,Engineering,Senior,17,34.0,High School,58200.0,3.21,0.0,New York,2011-01-04,
+EMP00110,Legal,Lead,23,25.0,Bachelor,63000.0,1.19,4.0,Seattle,2011-01-07,No
+EMP00111,Marketing,Lead,19,38.0,Bachelor,60300.0,4.9,4.0,  new york,2011-01-11,No
+EMP00112,Engineering,Manager,8,54.0,High School,81900.0,4.31,,Boston,2011-01-14,No
+EMP00113,Operations,Lead,7,26.0,PhD,102900.0,,3.0,san francisco,2011-01-18,
+EMP00114,Sales,Junior,13,49.0,PhD,67700.0,4.69,4.0,Austin,2011-01-21,No
+EMP00115,HR,Junior,18,45.0,Bachelor,54600.0,2.8,,Boston,2011-01-24,
+EMP00116,Legal,Mid,18,38.0,Bachelor,95300.0,2.49,3.0,san francisco,2011-01-28,No
+EMP00117,Finance,Mid,7,60.0,Associate,68000.0,2.84,1.0,New York,2011-01-31,Yes
+EMP00118,Marketing,Mid,1,61.0,High School,77700.0,4.34,,New York,2011-02-04,No
+EMP00119,Finance,Junior,24,32.0,PhD,66700.0,3.64,1.0,Seattle,2011-02-07,No
+EMP00120,Legal,Director,3,33.0,Associate,83500.0,1.24,4.0,san francisco,2011-02-10,No
+EMP00121,Operations,Director,5,34.0,PhD,49700.0,4.83,0.0,San Francisco,2011-02-14,No
+EMP00122,Engineering,Mid,2,29.0,Bachelor,93200.0,1.59,2.0,New York,2011-02-17,No
+EMP00123,Legal,Mid,2,22.0,High School,74200.0,3.98,0.0,San Francisco,2011-02-21,No
+EMP00124,Engineering,Junior,18,30.0,Master,55900.0,3.54,4.0,Chicago,2011-02-24,No
+EMP00125,HR,Manager,10,49.0,High School,88300.0,,3.0,  new york,2011-02-27,Yes
+EMP00126,Marketing,Lead,28,23.0,Master,55900.0,1.68,,Chicago,2011-03-03,No
+EMP00127,Operations,Senior,9,35.0,Associate,57000.0,4.48,0.0,san francisco,2011-03-06,No
+EMP00128,Marketing,Director,11,34.0,Master,45000.0,2.68,1.0,san francisco,2011-03-10,Yes
+EMP00129,HR,Director,13,23.0,Master,32400.0,3.62,5.0,Seattle,2011-03-13,No
+EMP00130,Operations,Junior,29,25.0,Associate,88400.0,3.02,4.0,Chicago,2011-03-17,No
+EMP00131,Operations,Junior,29,33.0,High School,104100.0,3.91,0.0,Boston,2011-03-20,Yes
+EMP00132,Engineering,Senior,27,31.0,Associate,63700.0,2.92,5.0,san francisco,2011-03-23,No
+EMP00133,Engineering,Senior,17,24.0,Bachelor,55000.0,2.15,0.0,Boston,2011-03-27,Yes
+EMP00134,Engineering,Mid,23,25.0,Bachelor,29700.0,2.45,3.0,Boston,2011-03-30,
+EMP00135,Finance,Senior,8,27.0,Master,20700.0,4.44,3.0,Seattle,2011-04-03,No
+EMP00136,Sales,Lead,14,44.0,Associate,93200.0,2.87,3.0,Seattle,2011-04-06,No
+EMP00137,Legal,Lead,23,26.0,Associate,25600.0,1.85,5.0,Boston,2011-04-09,Yes
+EMP00138,Engineering,Director,25,24.0,Associate,46400.0,4.74,2.0,San Francisco,2011-04-13,No
+EMP00139,Sales,Lead,2,31.0,High School,82100.0,4.19,5.0,Boston,2011-04-16,No
+EMP00140,Sales,Lead,22,64.0,PhD,77200.0,1.22,4.0,San Francisco,2011-04-20,No
+EMP00141,Marketing,Lead,10,40.0,PhD,83100.0,,4.0,Chicago,2011-04-23,No
+EMP00142,HR,Mid,9,35.0,PhD,75200.0,3.78,1.0,San Francisco,2011-04-26,No
+EMP00143,Finance,Director,17,42.0,High School,66100.0,1.64,1.0,san francisco,2011-04-30,No
+EMP00144,Sales,Junior,3,64.0,Associate,46600.0,1.95,4.0,New York,2011-05-03,No
+EMP00145,Legal,Director,27,49.0,PhD,59100.0,3.77,0.0,Austin,2011-05-07,No
+EMP00146,Finance,Director,12,42.0,Associate,67800.0,4.12,4.0,New York,2011-05-10,No
+EMP00147,Marketing,Director,29,57.0,Master,27700.0,1.96,,New York,2011-05-13,No
+EMP00148,Engineering,Senior,28,45.0,PhD,55300.0,2.03,2.0,Seattle,2011-05-17,No
+EMP00149,Operations,Junior,5,59.0,Master,65700.0,2.23,1.0,Austin,2011-05-20,No
+EMP00150,Sales,Senior,26,38.0,High School,57800.0,3.39,1.0,Seattle,2011-05-24,No
+EMP00151,HR,Mid,20,43.0,Bachelor,66400.0,1.69,,San Francisco,2011-05-27,No
+EMP00152,Operations,Mid,12,40.0,High School,91700.0,1.42,,Boston,2011-05-31,No
+EMP00153,Marketing,Manager,24,31.0,High School,94800.0,3.72,5.0,  new york,2011-06-03,
+EMP00154,Finance,Manager,25,32.0,High School,112800.0,4.12,,  new york,2011-06-06,No
+EMP00155,Legal,Mid,19,59.0,PhD,37300.0,3.0,1.0,  new york,2011-06-10,No
+EMP00156,Engineering,Mid,4,23.0,Master,64500.0,2.46,4.0,San Francisco,2011-06-13,No
+EMP00157,Finance,Senior,19,,PhD,105700.0,2.73,1.0,Austin,2011-06-17,No
+EMP00158,HR,Mid,13,64.0,Bachelor,31400.0,2.55,,Chicago,2011-06-20,No
+EMP00159,Sales,Junior,12,52.0,High School,45600.0,4.84,,San Francisco,2011-06-23,No
+EMP00160,HR,Senior,13,56.0,Associate,59600.0,4.07,,New York,2011-06-27,No
+EMP00161,Finance,Mid,7,58.0,Bachelor,126100.0,1.83,1.0,Austin,2011-06-30,No
+EMP00162,Finance,Senior,15,57.0,Master,50600.0,2.54,,Austin,2011-07-04,Yes
+EMP00163,Operations,Senior,12,44.0,Bachelor,102100.0,3.18,5.0,San Francisco,2011-07-07,No
+EMP00164,HR,Lead,23,57.0,PhD,74300.0,3.45,4.0,San Francisco,2011-07-10,No
+EMP00165,HR,Manager,14,61.0,Associate,46300.0,2.87,0.0,Seattle,2011-07-14,No
+EMP00166,HR,Senior,18,60.0,PhD,145000.0,4.24,,Seattle,2011-07-17,No
+EMP00167,Engineering,Director,0,47.0,High School,79900.0,4.07,1.0,New York,2011-07-21,Yes
+EMP00168,Legal,Senior,21,46.0,High School,84400.0,,1.0,san francisco,2011-07-24,No
+EMP00169,Finance,Director,1,38.0,Bachelor,88400.0,4.42,,Austin,2011-07-28,No
+EMP00170,Marketing,Lead,17,36.0,High School,86400.0,,1.0,  new york,2011-07-31,No
+EMP00171,Engineering,Mid,18,58.0,High School,128800.0,4.11,,Chicago,2011-08-03,No
+EMP00172,Engineering,Senior,7,25.0,Master,119600.0,4.83,2.0,Chicago,2011-08-07,No
+EMP00173,Engineering,Lead,2,43.0,Master,51700.0,2.07,4.0,Austin,2011-08-10,No
+EMP00174,Operations,Junior,22,38.0,PhD,125500.0,2.07,,New York,2011-08-14,No
+EMP00175,Legal,Lead,25,43.0,PhD,57500.0,4.56,1.0,  new york,2011-08-17,No
+EMP00176,Legal,Manager,13,38.0,Master,83100.0,,2.0,Seattle,2011-08-20,No
+EMP00177,Marketing,Manager,25,35.0,Bachelor,38700.0,4.71,0.0,Seattle,2011-08-24,No
+EMP00178,HR,Mid,8,35.0,Master,100900.0,1.25,0.0,Seattle,2011-08-27,No
+EMP00179,Operations,Director,28,38.0,PhD,67300.0,3.51,5.0,Chicago,2011-08-31,No
+EMP00180,Finance,Mid,7,29.0,Associate,46300.0,1.58,,Chicago,2011-09-03,No
+EMP00181,Sales,Director,16,55.0,High School,104700.0,3.02,5.0,New York,2011-09-06,
+EMP00182,Operations,Director,22,47.0,Associate,110900.0,1.62,5.0,Chicago,2011-09-10,No
+EMP00183,Sales,Director,22,51.0,Associate,111800.0,1.51,2.0,San Francisco,2011-09-13,No
+EMP00184,Finance,Director,23,43.0,High School,36900.0,1.05,0.0,Chicago,2011-09-17,
+EMP00185,Marketing,Manager,15,,Master,114300.0,,5.0,Seattle,2011-09-20,No
+EMP00186,Legal,Manager,9,51.0,Bachelor,67500.0,2.44,3.0,New York,2011-09-24,Yes
+EMP00187,Sales,Senior,20,37.0,Associate,126300.0,1.42,5.0,Austin,2011-09-27,No
+EMP00188,Engineering,Manager,9,59.0,Bachelor,90600.0,,0.0,Austin,2011-09-30,No
+EMP00189,Operations,Mid,24,45.0,PhD,81300.0,1.68,3.0,New York,2011-10-04,
+EMP00190,Sales,Manager,24,57.0,Associate,75200.0,4.77,2.0,San Francisco,2011-10-07,Yes
+EMP00191,Finance,Mid,23,56.0,PhD,74700.0,,,Austin,2011-10-11,No
+EMP00192,Legal,Junior,5,27.0,Master,58000.0,2.34,,Seattle,2011-10-14,No
+EMP00193,Engineering,Manager,21,,Associate,48300.0,4.36,3.0,Austin,2011-10-17,No
+EMP00194,Sales,Mid,16,39.0,PhD,65900.0,3.59,0.0,Austin,2011-10-21,No
+EMP00195,Legal,Director,28,27.0,PhD,104800.0,3.84,1.0,Seattle,2011-10-24,No
+EMP00196,Finance,Lead,15,47.0,Master,40100.0,3.54,3.0,Chicago,2011-10-28,No
+EMP00197,Marketing,Director,14,58.0,Bachelor,108500.0,4.78,0.0,San Francisco,2011-10-31,
+EMP00198,Finance,Senior,21,48.0,Bachelor,78600.0,1.83,5.0,  new york,2011-11-03,No
+EMP00199,Marketing,Mid,13,62.0,Associate,94500.0,4.96,1.0,Seattle,2011-11-07,No
+EMP00200,Legal,Director,3,32.0,Master,,4.32,2.0,Seattle,2011-11-10,No
+EMP00201,Legal,Manager,3,59.0,Associate,98200.0,3.36,,Boston,2011-11-14,No
+EMP00202,Engineering,Manager,29,37.0,Bachelor,75600.0,3.65,2.0,New York,2011-11-17,No
+EMP00203,Finance,Junior,1,40.0,Master,76300.0,3.6,4.0,san francisco,2011-11-21,No
+EMP00204,HR,Lead,28,64.0,High School,5000.0,1.23,2.0,San Francisco,2011-11-24,No
+EMP00205,Operations,Mid,10,36.0,Master,49000.0,1.87,4.0,Chicago,2011-11-27,No
+EMP00206,HR,Director,29,47.0,Master,45100.0,4.85,2.0,Boston,2011-12-01,Yes
+EMP00207,HR,Lead,3,62.0,High School,63400.0,3.14,2.0,  new york,2011-12-04,No
+EMP00208,HR,Junior,20,52.0,PhD,82200.0,2.51,2.0,Seattle,2011-12-08,No
+EMP00209,Operations,Senior,28,40.0,PhD,123000.0,4.05,4.0,  new york,2011-12-11,No
+EMP00210,HR,Lead,27,45.0,PhD,76200.0,3.1,5.0,  new york,2011-12-14,No
+EMP00211,Marketing,Junior,20,30.0,Bachelor,125000.0,1.05,4.0,  new york,2011-12-18,No
+EMP00212,Finance,Mid,15,44.0,Master,87900.0,3.94,3.0,Boston,2011-12-21,Yes
+EMP00213,Legal,Senior,20,25.0,High School,63700.0,3.93,0.0,san francisco,2011-12-25,No
+EMP00214,Engineering,Manager,3,31.0,Bachelor,103700.0,1.66,0.0,Chicago,2011-12-28,No
+EMP00215,HR,Junior,0,30.0,High School,68900.0,4.83,5.0,Boston,2011-12-31,Yes
+EMP00216,Legal,Manager,29,40.0,Bachelor,81300.0,1.9,0.0,Boston,2012-01-04,No
+EMP00217,HR,Senior,25,36.0,Bachelor,41600.0,2.83,2.0,san francisco,2012-01-07,No
+EMP00218,Engineering,Junior,23,55.0,Bachelor,37300.0,,5.0,Boston,2012-01-11,No
+EMP00219,Engineering,Junior,18,63.0,High School,88800.0,3.41,0.0,Seattle,2012-01-14,No
+EMP00220,HR,Senior,1,40.0,Associate,102600.0,2.5,4.0,Seattle,2012-01-17,No
+EMP00221,Marketing,Mid,8,42.0,Bachelor,123600.0,2.41,3.0,New York,2012-01-21,Yes
+EMP00222,Legal,Junior,22,55.0,PhD,54800.0,4.31,1.0,Austin,2012-01-24,Yes
+EMP00223,Engineering,Senior,24,38.0,Master,111600.0,1.04,3.0,San Francisco,2012-01-28,No
+EMP00224,Finance,Lead,12,39.0,Associate,107900.0,4.19,0.0,New York,2012-01-31,Yes
+EMP00225,Legal,Manager,17,38.0,Associate,62700.0,3.29,5.0,Chicago,2012-02-04,Yes
+EMP00226,Finance,Junior,15,23.0,High School,109700.0,4.94,,Boston,2012-02-07,No
+EMP00227,Legal,Lead,15,22.0,Associate,,3.36,0.0,Seattle,2012-02-10,No
+EMP00228,Marketing,Junior,24,64.0,High School,103600.0,1.22,4.0,Boston,2012-02-14,Yes
+EMP00229,Operations,Mid,9,,High School,129200.0,1.2,3.0,Seattle,2012-02-17,
+EMP00230,Sales,Senior,8,58.0,PhD,102500.0,4.53,,  new york,2012-02-21,Yes
+EMP00231,Marketing,Junior,10,26.0,Bachelor,21600.0,4.36,4.0,San Francisco,2012-02-24,No
+EMP00232,HR,Senior,24,33.0,Associate,83100.0,2.38,4.0,New York,2012-02-27,Yes
+EMP00233,Sales,Director,25,57.0,Bachelor,35800.0,3.47,1.0,New York,2012-03-02,No
+EMP00234,HR,Junior,28,52.0,Bachelor,78800.0,2.96,4.0,Chicago,2012-03-05,No
+EMP00235,Finance,Mid,25,59.0,Bachelor,77300.0,4.87,,  new york,2012-03-09,No
+EMP00236,Engineering,Mid,3,30.0,High School,60400.0,4.8,4.0,New York,2012-03-12,No
+EMP00237,Legal,Lead,9,47.0,Bachelor,49300.0,4.94,1.0,New York,2012-03-15,No
+EMP00238,HR,Mid,2,36.0,Associate,61700.0,4.47,2.0,Austin,2012-03-19,No
+EMP00239,Finance,Senior,5,37.0,High School,66600.0,4.64,,san francisco,2012-03-22,No
+EMP00240,Marketing,Director,2,34.0,Associate,71700.0,1.87,2.0,San Francisco,2012-03-26,No
+EMP00241,HR,Mid,26,46.0,High School,77600.0,4.32,,Boston,2012-03-29,No
+EMP00242,Finance,Junior,8,51.0,Master,89600.0,3.84,5.0,san francisco,2012-04-02,No
+EMP00243,Engineering,Mid,2,28.0,Master,67200.0,4.85,1.0,New York,2012-04-05,No
+EMP00244,Legal,Director,17,25.0,Master,107000.0,3.29,5.0,Chicago,2012-04-08,No
+EMP00245,HR,Senior,7,64.0,Master,74000.0,1.34,5.0,Boston,2012-04-12,No
+EMP00246,Operations,Junior,21,61.0,High School,98100.0,3.39,4.0,Seattle,2012-04-15,No
+EMP00247,Finance,Lead,7,59.0,Bachelor,67400.0,3.75,5.0,  new york,2012-04-19,
+EMP00248,HR,Lead,14,51.0,PhD,143600.0,1.88,0.0,  new york,2012-04-22,No
+EMP00249,Engineering,Lead,12,31.0,PhD,,2.58,,New York,2012-04-25,No
+EMP00250,Legal,Junior,6,51.0,Master,115900.0,3.39,3.0,New York,2012-04-29,No
+EMP00251,HR,Lead,18,60.0,Bachelor,57700.0,2.5,0.0,Boston,2012-05-02,No
+EMP00252,HR,Mid,7,28.0,Associate,63800.0,2.5,0.0,san francisco,2012-05-06,No
+EMP00253,Legal,Junior,9,57.0,Bachelor,-1000.0,1.53,4.0,Seattle,2012-05-09,No
+EMP00254,Operations,Junior,16,56.0,Associate,136800.0,4.76,3.0,Austin,2012-05-12,No
+EMP00255,Finance,Junior,0,45.0,PhD,69700.0,4.0,5.0,San Francisco,2012-05-16,No
+EMP00256,Sales,Manager,12,60.0,Bachelor,54400.0,1.0,3.0,Austin,2012-05-19,No
+EMP00257,Legal,Senior,28,57.0,Bachelor,107500.0,4.06,5.0,san francisco,2012-05-23,No
+EMP00258,HR,Manager,25,41.0,PhD,76500.0,3.96,2.0,Chicago,2012-05-26,No
+EMP00259,Sales,Manager,12,53.0,Bachelor,,1.04,1.0,Boston,2012-05-30,No
+EMP00260,Marketing,Manager,23,60.0,Associate,59700.0,2.48,4.0,New York,2012-06-02,No
+EMP00261,HR,Senior,15,47.0,Bachelor,87200.0,3.43,5.0,Austin,2012-06-05,No
+EMP00262,Sales,Manager,28,47.0,Associate,101600.0,2.81,5.0,San Francisco,2012-06-09,
+EMP00263,Marketing,Lead,8,57.0,Master,94700.0,4.11,3.0,Chicago,2012-06-12,
+EMP00264,Operations,Junior,9,64.0,Bachelor,63000.0,2.7,4.0,  new york,2012-06-16,No
+EMP00265,Finance,Junior,5,56.0,Associate,50300.0,1.62,,san francisco,2012-06-19,No
+EMP00266,HR,Mid,4,64.0,PhD,-25500.0,4.91,5.0,Austin,2012-06-22,Yes
+EMP00267,Finance,Director,1,56.0,Master,51400.0,1.97,2.0,New York,2012-06-26,No
+EMP00268,Marketing,Lead,10,33.0,Bachelor,65700.0,3.87,0.0,San Francisco,2012-06-29,No
+EMP00269,Finance,Senior,8,54.0,Associate,73500.0,,5.0,New York,2012-07-03,No
+EMP00270,Finance,Director,5,57.0,Bachelor,68200.0,,3.0,New York,2012-07-06,No
+EMP00271,Legal,Junior,7,35.0,Associate,145000.0,2.77,,Chicago,2012-07-09,No
+EMP00272,Engineering,Manager,8,54.0,Bachelor,,1.77,2.0,San Francisco,2012-07-13,No
+EMP00273,Marketing,Mid,8,45.0,Master,44100.0,2.8,4.0,Seattle,2012-07-16,No
+EMP00274,Finance,Mid,7,,Master,91400.0,1.63,5.0,  new york,2012-07-20,Yes
+EMP00275,Sales,Junior,11,52.0,Bachelor,84800.0,3.24,2.0,san francisco,2012-07-23,No
+EMP00276,Marketing,Lead,25,38.0,Bachelor,48800.0,3.65,2.0,New York,2012-07-27,No
+EMP00277,Engineering,Director,7,33.0,High School,,1.25,,san francisco,2012-07-30,No
+EMP00278,HR,Mid,2,43.0,Bachelor,88300.0,4.48,2.0,San Francisco,2012-08-02,No
+EMP00279,Operations,Junior,12,44.0,Bachelor,100600.0,1.74,2.0,New York,2012-08-06,No
+EMP00280,Finance,Lead,18,47.0,Master,30600.0,1.9,,Austin,2012-08-09,Yes
+EMP00281,Sales,Junior,1,35.0,Bachelor,91200.0,3.65,,Austin,2012-08-13,No
+EMP00282,Engineering,Junior,16,33.0,PhD,110200.0,2.88,,San Francisco,2012-08-16,No
+EMP00283,Marketing,Lead,15,25.0,Bachelor,-1000.0,3.0,2.0,  new york,2012-08-19,No
+EMP00284,Operations,Lead,3,34.0,High School,44300.0,1.51,2.0,Chicago,2012-08-23,No
+EMP00285,Operations,Lead,17,39.0,Associate,71400.0,4.22,1.0,Seattle,2012-08-26,No
+EMP00286,Finance,Junior,13,64.0,Master,73800.0,3.47,4.0,Austin,2012-08-30,No
+EMP00287,Engineering,Mid,29,49.0,PhD,,1.54,0.0,Chicago,2012-09-02,No
+EMP00288,Engineering,Senior,1,59.0,Associate,70900.0,2.5,4.0,Seattle,2012-09-05,
+EMP00289,Sales,Senior,12,62.0,PhD,57100.0,4.24,3.0,Austin,2012-09-09,Yes
+EMP00290,HR,Junior,26,40.0,Master,80400.0,3.27,3.0,Seattle,2012-09-12,
+EMP00291,HR,Junior,26,64.0,High School,66600.0,1.43,,Boston,2012-09-16,
+EMP00292,Legal,Mid,20,59.0,Master,89100.0,2.49,4.0,New York,2012-09-19,No
+EMP00293,HR,Lead,19,24.0,PhD,54800.0,1.97,2.0,San Francisco,2012-09-22,No
+EMP00294,Legal,Junior,16,40.0,PhD,49400.0,3.07,1.0,Austin,2012-09-26,No
+EMP00295,Operations,Manager,14,41.0,Master,107900.0,4.37,0.0,Austin,2012-09-29,No
+EMP00296,Operations,Lead,24,46.0,Bachelor,131800.0,2.75,5.0,san francisco,2012-10-03,No
+EMP00297,Marketing,Junior,29,,Master,,2.73,5.0,New York,2012-10-06,No
+EMP00298,Operations,Manager,19,38.0,High School,73200.0,4.62,2.0,Austin,2012-10-10,No
+EMP00299,Operations,Director,4,56.0,Master,101400.0,3.3,4.0,Austin,2012-10-13,No
+EMP00300,Engineering,Mid,6,35.0,Associate,,3.26,5.0,Boston,2012-10-16,Yes
+EMP00301,Marketing,Manager,17,60.0,Bachelor,87700.0,2.05,4.0,Austin,2012-10-20,No
+EMP00302,Engineering,Junior,23,40.0,Associate,60400.0,3.43,1.0,Austin,2012-10-23,No
+EMP00303,Sales,Senior,10,24.0,Master,106400.0,3.3,1.0,Austin,2012-10-27,No
+EMP00304,Legal,Junior,17,55.0,Bachelor,103100.0,2.59,,Chicago,2012-10-30,No
+EMP00305,Legal,Senior,26,62.0,Associate,126900.0,4.96,4.0,Austin,2012-11-02,No
+EMP00306,Sales,Mid,25,43.0,Associate,69300.0,4.53,,New York,2012-11-06,No
+EMP00307,Legal,Mid,4,59.0,Bachelor,114500.0,4.0,2.0,Boston,2012-11-09,No
+EMP00308,Marketing,Lead,12,48.0,Bachelor,87700.0,3.15,,Austin,2012-11-13,No
+EMP00309,Marketing,Lead,27,42.0,PhD,76900.0,2.85,2.0,Seattle,2012-11-16,No
+EMP00310,Operations,Senior,17,62.0,Bachelor,83400.0,1.74,2.0,Boston,2012-11-19,No
+EMP00311,Legal,Senior,1,52.0,Master,117500.0,2.22,5.0,Boston,2012-11-23,No
+EMP00312,Sales,Mid,19,48.0,High School,71700.0,4.1,0.0,Seattle,2012-11-26,No
+EMP00313,Finance,Manager,3,58.0,PhD,73000.0,2.81,0.0,New York,2012-11-30,No
+EMP00314,HR,Senior,12,,Bachelor,23400.0,4.53,2.0,Chicago,2012-12-03,No
+EMP00315,Operations,Senior,23,30.0,High School,71300.0,1.59,4.0,  new york,2012-12-07,No
+EMP00316,HR,Manager,28,40.0,PhD,,3.03,1.0,san francisco,2012-12-10,No
+EMP00317,Sales,Lead,15,63.0,Master,55900.0,3.59,,  new york,2012-12-13,No
+EMP00318,Legal,Lead,5,57.0,High School,49800.0,3.07,3.0,New York,2012-12-17,No
+EMP00319,Legal,Senior,25,31.0,Bachelor,28700.0,4.56,1.0,Chicago,2012-12-20,No
+EMP00320,HR,Lead,7,61.0,Bachelor,,4.96,1.0,San Francisco,2012-12-24,Yes
+EMP00321,Finance,Lead,15,60.0,Master,110500.0,1.46,3.0,Seattle,2012-12-27,No
+EMP00322,Legal,Director,12,28.0,PhD,38000.0,1.52,2.0,san francisco,2012-12-30,No
+EMP00323,Finance,Lead,22,25.0,High School,94700.0,,1.0,Boston,2013-01-03,No
+EMP00324,Engineering,Mid,28,36.0,Master,97000.0,3.72,3.0,Boston,2013-01-06,Yes
+EMP00325,Marketing,Junior,25,33.0,PhD,136300.0,2.49,,Boston,2013-01-10,No
+EMP00326,HR,Senior,3,27.0,Associate,101000.0,3.93,5.0,Seattle,2013-01-13,No
+EMP00327,Legal,Senior,1,30.0,Associate,98900.0,2.62,4.0,Seattle,2013-01-16,Yes
+EMP00328,Finance,Mid,8,56.0,PhD,84200.0,3.51,4.0,san francisco,2013-01-20,No
+EMP00329,Legal,Junior,17,29.0,Bachelor,75000.0,4.08,4.0,  new york,2013-01-23,No
+EMP00330,Marketing,Junior,16,28.0,Bachelor,96300.0,3.19,2.0,  new york,2013-01-27,No
+EMP00331,Marketing,Mid,7,25.0,Associate,,3.16,1.0,  new york,2013-01-30,No
+EMP00332,Engineering,Manager,25,34.0,Bachelor,79300.0,1.35,1.0,Chicago,2013-02-03,No
+EMP00333,Marketing,Manager,14,40.0,Bachelor,107300.0,2.64,0.0,Boston,2013-02-06,Yes
+EMP00334,Marketing,Junior,8,28.0,PhD,147100.0,3.18,4.0,New York,2013-02-09,No
+EMP00335,Operations,Manager,16,31.0,PhD,76800.0,2.85,2.0,Chicago,2013-02-13,No
+EMP00336,Sales,Manager,22,46.0,Bachelor,77500.0,4.6,3.0,Boston,2013-02-16,Yes
+EMP00337,Legal,Manager,1,56.0,PhD,72700.0,4.63,2.0,Seattle,2013-02-20,No
+EMP00338,Engineering,Junior,5,46.0,High School,78300.0,4.29,1.0,Seattle,2013-02-23,No
+EMP00339,Engineering,Manager,28,50.0,Associate,,,,Seattle,2013-02-26,No
+EMP00340,HR,Senior,26,33.0,High School,77200.0,3.87,,Boston,2013-03-02,No
+EMP00341,Marketing,Director,4,61.0,High School,79700.0,2.58,,  new york,2013-03-05,No
+EMP00342,HR,Junior,16,33.0,Bachelor,68800.0,1.93,4.0,Seattle,2013-03-09,No
+EMP00343,Operations,Mid,1,27.0,Bachelor,87200.0,2.37,0.0,San Francisco,2013-03-12,No
+EMP00344,Finance,Manager,17,31.0,High School,62400.0,1.28,5.0,Seattle,2013-03-15,
+EMP00345,Marketing,Lead,9,23.0,High School,44300.0,2.33,2.0,san francisco,2013-03-19,No
+EMP00346,Finance,Junior,9,,Master,86200.0,2.84,0.0,san francisco,2013-03-22,No
+EMP00347,Sales,Mid,5,28.0,Master,124500.0,4.82,,Boston,2013-03-26,No
+EMP00348,Operations,Director,26,61.0,Associate,67800.0,2.25,1.0,  new york,2013-03-29,No
+EMP00349,Marketing,Senior,11,44.0,High School,49000.0,4.61,3.0,Chicago,2013-04-02,No
+EMP00350,HR,Mid,16,32.0,PhD,122900.0,1.92,2.0,Seattle,2013-04-05,No
+EMP00351,HR,Manager,26,57.0,Master,76100.0,1.76,5.0,  new york,2013-04-08,No
+EMP00352,Marketing,Lead,12,44.0,Bachelor,98600.0,3.08,1.0,  new york,2013-04-12,
+EMP00353,Legal,Manager,19,64.0,High School,56800.0,3.69,4.0,Austin,2013-04-15,No
+EMP00354,HR,Mid,27,28.0,PhD,75200.0,1.18,2.0,San Francisco,2013-04-19,No
+EMP00355,Legal,Junior,15,48.0,PhD,,1.88,0.0,san francisco,2013-04-22,No
+EMP00356,Marketing,Lead,9,34.0,PhD,78300.0,2.82,,Boston,2013-04-25,No
+EMP00357,Engineering,Lead,26,38.0,Bachelor,78600.0,2.32,2.0,Seattle,2013-04-29,No
+EMP00358,HR,Mid,20,53.0,Master,37800.0,3.85,1.0,Austin,2013-05-02,No
+EMP00359,Legal,Director,1,47.0,PhD,,3.04,1.0,Boston,2013-05-06,No
+EMP00360,Marketing,Director,1,43.0,Master,55400.0,1.64,,Chicago,2013-05-09,No
+EMP00361,Marketing,Manager,22,34.0,Associate,500000.0,4.58,0.0,San Francisco,2013-05-12,No
+EMP00362,Legal,Mid,6,33.0,Bachelor,80100.0,2.17,5.0,  new york,2013-05-16,No
+EMP00363,HR,Lead,5,28.0,Master,82300.0,3.92,1.0,Seattle,2013-05-19,No
+EMP00364,Engineering,Mid,0,22.0,Master,94300.0,4.12,2.0,Chicago,2013-05-23,No
+EMP00365,HR,Lead,11,54.0,PhD,,4.85,,Boston,2013-05-26,No
+EMP00366,Marketing,Manager,12,35.0,PhD,118000.0,2.99,5.0,Austin,2013-05-29,No
+EMP00367,Engineering,Junior,11,64.0,Bachelor,114000.0,3.46,0.0,Boston,2013-06-02,No
+EMP00368,Finance,Junior,18,62.0,Master,44600.0,2.34,1.0,san francisco,2013-06-05,Yes
+EMP00369,Sales,Mid,8,38.0,High School,70700.0,3.71,,Boston,2013-06-09,No
+EMP00370,HR,Lead,9,25.0,PhD,95900.0,2.85,1.0,San Francisco,2013-06-12,No
+EMP00371,Operations,Junior,16,60.0,PhD,51400.0,2.75,2.0,Seattle,2013-06-16,No
+EMP00372,Marketing,Lead,17,22.0,Associate,35800.0,4.42,1.0,Chicago,2013-06-19,No
+EMP00373,Engineering,Manager,7,62.0,Bachelor,56000.0,,,San Francisco,2013-06-22,
+EMP00374,Legal,Mid,6,45.0,Master,72100.0,4.53,2.0,Austin,2013-06-26,No
+EMP00375,Legal,Lead,8,55.0,Master,-26600.0,4.41,4.0,  new york,2013-06-29,No
+EMP00376,Legal,Mid,9,55.0,Master,47200.0,3.03,,Seattle,2013-07-03,No
+EMP00377,Engineering,Lead,11,45.0,PhD,30500.0,2.96,5.0,  new york,2013-07-06,No
+EMP00378,Finance,Director,14,36.0,Bachelor,,,2.0,San Francisco,2013-07-09,No
+EMP00379,HR,Director,14,38.0,Master,98300.0,4.98,3.0,Austin,2013-07-13,No
+EMP00380,Operations,Lead,27,34.0,High School,82000.0,1.44,1.0,Austin,2013-07-16,No
+EMP00381,Legal,Manager,3,28.0,Associate,77500.0,3.36,4.0,Chicago,2013-07-20,No
+EMP00382,Engineering,Mid,3,30.0,Associate,88600.0,3.73,5.0,san francisco,2013-07-23,No
+EMP00383,Legal,Senior,22,56.0,Master,50000.0,4.74,0.0,Boston,2013-07-26,No
+EMP00384,Finance,Lead,0,44.0,PhD,106300.0,4.12,3.0,Austin,2013-07-30,No
+EMP00385,Marketing,Lead,25,60.0,Associate,77300.0,3.58,0.0,san francisco,2013-08-02,Yes
+EMP00386,Legal,Director,11,44.0,Associate,97900.0,1.47,,Austin,2013-08-06,No
+EMP00387,Finance,Junior,24,47.0,Associate,96900.0,2.49,3.0,Boston,2013-08-09,No
+EMP00388,HR,Director,1,22.0,Associate,88400.0,1.56,4.0,New York,2013-08-13,No
+EMP00389,Legal,Mid,14,35.0,Master,82800.0,4.52,5.0,Austin,2013-08-16,No
+EMP00390,Finance,Director,16,53.0,Bachelor,81000.0,4.0,4.0,Seattle,2013-08-19,No
+EMP00391,Engineering,Senior,6,31.0,Bachelor,73400.0,4.03,4.0,  new york,2013-08-23,No
+EMP00392,Engineering,Manager,5,22.0,PhD,87100.0,3.61,3.0,  new york,2013-08-26,No
+EMP00393,Sales,Senior,11,26.0,High School,80200.0,3.03,2.0,San Francisco,2013-08-30,No
+EMP00394,Finance,Manager,18,24.0,Bachelor,62800.0,1.6,5.0,Boston,2013-09-02,No
+EMP00395,Marketing,Senior,0,48.0,High School,90200.0,2.32,0.0,Boston,2013-09-05,No
+EMP00396,Legal,Director,27,43.0,Bachelor,82000.0,1.55,2.0,Boston,2013-09-09,Yes
+EMP00397,Operations,Senior,20,39.0,Bachelor,105200.0,3.9,2.0,Seattle,2013-09-12,No
+EMP00398,Operations,Director,25,37.0,PhD,29700.0,1.64,1.0,Boston,2013-09-16,No
+EMP00399,HR,Director,13,23.0,Associate,75900.0,3.81,,Seattle,2013-09-19,
+EMP00400,Sales,Mid,3,34.0,PhD,5000.0,3.77,0.0,san francisco,2013-09-22,No
+EMP00401,Finance,Director,4,37.0,Bachelor,62100.0,2.84,3.0,san francisco,2013-09-26,No
+EMP00402,Marketing,Junior,0,29.0,Associate,89000.0,1.54,,  new york,2013-09-29,No
+EMP00403,Sales,Senior,0,64.0,Associate,39100.0,2.26,1.0,Chicago,2013-10-03,No
+EMP00404,Engineering,Lead,20,29.0,Associate,78300.0,2.28,1.0,New York,2013-10-06,No
+EMP00405,HR,Lead,5,31.0,High School,75800.0,3.8,,Boston,2013-10-10,No
+EMP00406,Legal,Lead,4,54.0,Bachelor,48800.0,1.45,4.0,  new york,2013-10-13,No
+EMP00407,Legal,Junior,1,52.0,Master,79000.0,4.32,3.0,New York,2013-10-16,Yes
+EMP00408,Legal,Director,24,33.0,PhD,,4.04,2.0,  new york,2013-10-20,Yes
+EMP00409,Finance,Senior,20,30.0,High School,129900.0,1.75,5.0,Boston,2013-10-23,No
+EMP00410,Operations,Manager,26,58.0,PhD,,3.88,2.0,Seattle,2013-10-27,Yes
+EMP00411,Marketing,Manager,26,30.0,Master,76700.0,3.67,2.0,  new york,2013-10-30,No
+EMP00412,Legal,Mid,4,39.0,Associate,64200.0,3.99,4.0,San Francisco,2013-11-02,Yes
+EMP00413,Legal,Junior,25,51.0,Master,,1.76,2.0,New York,2013-11-06,No
+EMP00414,Engineering,Senior,8,53.0,PhD,94200.0,1.63,0.0,New York,2013-11-09,No
+EMP00415,Sales,Director,18,61.0,Master,81400.0,1.95,2.0,Seattle,2013-11-13,No
+EMP00416,Legal,Lead,20,44.0,Bachelor,49600.0,2.46,2.0,san francisco,2013-11-16,No
+EMP00417,HR,Junior,14,32.0,Master,69800.0,4.17,0.0,New York,2013-11-19,No
+EMP00418,Sales,Junior,12,41.0,Bachelor,77000.0,3.95,4.0,Chicago,2013-11-23,No
+EMP00419,Operations,Senior,11,40.0,Master,82300.0,4.7,1.0,Seattle,2013-11-26,No
+EMP00420,Sales,Director,4,57.0,Bachelor,,1.23,3.0,New York,2013-11-30,Yes
+EMP00421,Marketing,Mid,1,47.0,Bachelor,93300.0,1.05,4.0,New York,2013-12-03,No
+EMP00422,Engineering,Director,26,31.0,Master,108500.0,3.8,2.0,New York,2013-12-07,No
+EMP00423,Finance,Mid,3,45.0,High School,100300.0,2.12,1.0,Seattle,2013-12-10,
+EMP00424,Marketing,Mid,26,34.0,Associate,89800.0,2.34,3.0,san francisco,2013-12-13,No
+EMP00425,Operations,Lead,26,,Associate,43600.0,3.19,3.0,San Francisco,2013-12-17,No
+EMP00426,HR,Lead,17,50.0,Associate,104700.0,1.41,3.0,Austin,2013-12-20,No
+EMP00427,Operations,Senior,20,,Bachelor,95500.0,3.57,0.0,  new york,2013-12-24,No
+EMP00428,Operations,Director,9,28.0,Associate,68600.0,2.3,0.0,Boston,2013-12-27,Yes
+EMP00429,Sales,Mid,12,51.0,Bachelor,75700.0,3.53,1.0,  new york,2013-12-30,No
+EMP00430,HR,Senior,11,38.0,High School,76600.0,4.34,2.0,New York,2014-01-03,No
+EMP00431,Marketing,Mid,1,34.0,Master,64100.0,1.68,,  new york,2014-01-06,No
+EMP00432,Operations,Junior,25,45.0,Master,31300.0,4.72,1.0,Austin,2014-01-10,No
+EMP00433,Marketing,Manager,14,52.0,Bachelor,47100.0,3.12,2.0,Austin,2014-01-13,
+EMP00434,Legal,Manager,13,48.0,Bachelor,,4.69,4.0,New York,2014-01-16,No
+EMP00435,Legal,Mid,24,42.0,High School,25800.0,1.83,,New York,2014-01-20,No
+EMP00436,Legal,Senior,9,22.0,Associate,47200.0,3.42,3.0,Boston,2014-01-23,No
+EMP00437,Finance,Lead,21,36.0,High School,103500.0,2.62,3.0,san francisco,2014-01-27,No
+EMP00438,Sales,Director,7,24.0,Master,87100.0,4.1,0.0,Austin,2014-01-30,
+EMP00439,Marketing,Mid,24,27.0,Master,50700.0,3.42,,San Francisco,2014-02-02,No
+EMP00440,Legal,Mid,14,,Associate,57800.0,2.98,4.0,Austin,2014-02-06,No
+EMP00441,Legal,Director,12,59.0,Master,105700.0,4.65,5.0,San Francisco,2014-02-09,No
+EMP00442,HR,Lead,7,54.0,Bachelor,105100.0,2.51,4.0,san francisco,2014-02-13,Yes
+EMP00443,Operations,Mid,20,59.0,Master,76700.0,1.88,2.0,  new york,2014-02-16,No
+EMP00444,Legal,Junior,20,,PhD,104400.0,,4.0,Chicago,2014-02-20,No
+EMP00445,Finance,Lead,21,47.0,Associate,55900.0,3.5,,San Francisco,2014-02-23,No
+EMP00446,HR,Junior,13,36.0,Associate,80700.0,2.76,,Boston,2014-02-26,No
+EMP00447,Sales,Manager,0,35.0,Associate,38100.0,2.95,0.0,Seattle,2014-03-02,No
+EMP00448,Finance,Director,12,41.0,PhD,,4.84,2.0,san francisco,2014-03-05,No
+EMP00449,Finance,Lead,26,40.0,High School,75700.0,3.93,1.0,  new york,2014-03-09,Yes
+EMP00450,Finance,Lead,7,54.0,Bachelor,32900.0,1.44,2.0,New York,2014-03-12,No
+EMP00451,Operations,Senior,17,57.0,Associate,,1.85,1.0,san francisco,2014-03-15,No
+EMP00452,Legal,Senior,21,45.0,Master,94000.0,4.9,5.0,Chicago,2014-03-19,No
+EMP00453,Engineering,Director,29,31.0,Bachelor,100300.0,3.91,2.0,Austin,2014-03-22,No
+EMP00454,Finance,Lead,29,55.0,Master,133400.0,4.66,3.0,San Francisco,2014-03-26,Yes
+EMP00455,HR,Manager,8,57.0,Bachelor,85400.0,2.22,5.0,Chicago,2014-03-29,No
+EMP00456,HR,Mid,12,57.0,Bachelor,73400.0,3.97,1.0,  new york,2014-04-01,No
+EMP00457,Sales,Director,2,37.0,Master,34900.0,,0.0,Seattle,2014-04-05,No
+EMP00458,Marketing,Director,17,36.0,Master,84800.0,2.18,5.0,san francisco,2014-04-08,No
+EMP00459,Marketing,Senior,9,39.0,Bachelor,89000.0,3.2,5.0,San Francisco,2014-04-12,
+EMP00460,Engineering,Manager,4,28.0,Associate,41100.0,3.51,5.0,Boston,2014-04-15,No
+EMP00461,Operations,Director,26,43.0,Master,69000.0,2.92,1.0,Austin,2014-04-19,No
+EMP00462,Legal,Manager,24,53.0,PhD,75300.0,4.31,1.0,Austin,2014-04-22,No
+EMP00463,Operations,Director,5,64.0,PhD,88200.0,4.33,2.0,San Francisco,2014-04-25,No
+EMP00464,Legal,Senior,29,40.0,Bachelor,96400.0,4.4,3.0,san francisco,2014-04-29,No
+EMP00465,Finance,Mid,7,61.0,High School,61600.0,4.21,5.0,Seattle,2014-05-02,No
+EMP00466,Legal,Senior,23,22.0,Bachelor,80000.0,2.95,2.0,san francisco,2014-05-06,No
+EMP00467,Engineering,Director,6,56.0,Bachelor,89300.0,2.53,2.0,New York,2014-05-09,No
+EMP00468,Sales,Manager,20,26.0,Associate,70500.0,4.33,3.0,New York,2014-05-12,No
+EMP00469,Sales,Junior,17,33.0,Associate,64500.0,2.96,2.0,Austin,2014-05-16,No
+EMP00470,Marketing,Senior,13,33.0,High School,92800.0,1.99,3.0,  new york,2014-05-19,No
+EMP00471,Sales,Manager,14,42.0,High School,70600.0,3.03,0.0,  new york,2014-05-23,Yes
+EMP00472,Finance,Senior,9,40.0,High School,45100.0,1.57,3.0,Seattle,2014-05-26,No
+EMP00473,HR,Director,25,30.0,High School,109300.0,3.77,4.0,Austin,2014-05-29,No
+EMP00474,Sales,Manager,20,64.0,High School,47800.0,2.34,3.0,New York,2014-06-02,No
+EMP00475,Engineering,Mid,11,57.0,Bachelor,72600.0,2.04,3.0,Austin,2014-06-05,No
+EMP00476,Finance,Manager,6,63.0,Bachelor,83000.0,4.83,,san francisco,2014-06-09,No
+EMP00477,Sales,Lead,27,53.0,PhD,5000.0,4.11,4.0,San Francisco,2014-06-12,
+EMP00478,Operations,Junior,27,56.0,PhD,79200.0,4.15,3.0,  new york,2014-06-16,No
+EMP00479,Legal,Director,6,52.0,Master,1400.0,3.49,1.0,  new york,2014-06-19,No
+EMP00480,Sales,Manager,10,53.0,Bachelor,57400.0,4.36,,Boston,2014-06-22,No
+EMP00481,Operations,Director,12,58.0,High School,82400.0,4.04,2.0,San Francisco,2014-06-26,No
+EMP00482,Finance,Senior,14,53.0,Master,72300.0,3.4,2.0,Boston,2014-06-29,No
+EMP00483,Sales,Senior,17,64.0,Associate,87800.0,4.84,0.0,Seattle,2014-07-03,Yes
+EMP00484,Operations,Manager,6,58.0,Bachelor,100500.0,1.77,0.0,New York,2014-07-06,No
+EMP00485,HR,Lead,5,60.0,PhD,87700.0,4.77,4.0,Seattle,2014-07-09,No
+EMP00486,Marketing,Manager,22,59.0,Bachelor,56800.0,2.61,1.0,Seattle,2014-07-13,No
+EMP00487,Finance,Mid,10,51.0,Bachelor,61500.0,3.11,0.0,New York,2014-07-16,No
+EMP00488,Operations,Lead,7,53.0,Bachelor,115800.0,1.49,2.0,Chicago,2014-07-20,No
+EMP00489,Engineering,Director,19,23.0,Bachelor,70500.0,3.16,0.0,Chicago,2014-07-23,No
+EMP00490,Sales,Manager,0,32.0,Associate,72600.0,3.44,0.0,Austin,2014-07-26,No
+EMP00491,Operations,Director,7,41.0,PhD,87700.0,4.99,3.0,Chicago,2014-07-30,No
+EMP00492,Legal,Junior,7,58.0,Bachelor,105900.0,4.9,0.0,San Francisco,2014-08-02,No
+EMP00493,Operations,Lead,18,,Associate,52500.0,4.87,4.0,  new york,2014-08-06,No
+EMP00494,Operations,Manager,2,59.0,Master,62600.0,2.39,2.0,Boston,2014-08-09,No
+EMP00495,Legal,Junior,4,40.0,Bachelor,34900.0,4.97,4.0,  new york,2014-08-13,No
+EMP00496,Marketing,Manager,29,61.0,Associate,67600.0,2.82,,Seattle,2014-08-16,No
+EMP00497,Legal,Mid,2,28.0,High School,89200.0,4.41,4.0,  new york,2014-08-19,No
+EMP00498,Legal,Senior,14,26.0,Master,65900.0,1.87,5.0,Austin,2014-08-23,No
+EMP00499,Engineering,Director,13,63.0,PhD,119000.0,3.02,1.0,Seattle,2014-08-26,Yes
+EMP00500,Legal,Manager,20,45.0,Bachelor,77900.0,,,New York,2014-08-30,No
+EMP00501,Engineering,Lead,14,62.0,Bachelor,72400.0,4.79,,san francisco,2014-09-02,No
+EMP00502,HR,Manager,23,28.0,Associate,,3.73,5.0,  new york,2014-09-05,No
+EMP00503,Legal,Manager,16,32.0,PhD,41000.0,4.19,5.0,Chicago,2014-09-09,No
+EMP00504,Marketing,Manager,17,30.0,High School,72700.0,1.71,3.0,san francisco,2014-09-12,Yes
+EMP00505,Legal,Manager,1,51.0,Master,84000.0,3.89,4.0,New York,2014-09-16,No
+EMP00506,Operations,Lead,11,62.0,PhD,72000.0,3.47,1.0,Austin,2014-09-19,No
+EMP00507,Finance,Lead,15,24.0,Bachelor,,1.37,2.0,Boston,2014-09-22,No
+EMP00508,Marketing,Manager,3,43.0,Associate,58200.0,1.45,2.0,San Francisco,2014-09-26,No
+EMP00509,Legal,Senior,24,61.0,High School,43900.0,,1.0,Chicago,2014-09-29,No
+EMP00510,Marketing,Manager,1,41.0,Associate,72300.0,3.9,,New York,2014-10-03,No
+EMP00511,Engineering,Director,27,53.0,Master,80500.0,1.57,4.0,Boston,2014-10-06,No
+EMP00512,HR,Director,13,28.0,PhD,70800.0,2.87,4.0,san francisco,2014-10-09,No
+EMP00513,HR,Lead,10,28.0,Associate,80100.0,2.43,3.0,  new york,2014-10-13,No
+EMP00514,Marketing,Director,12,41.0,Associate,94400.0,3.2,3.0,Chicago,2014-10-16,No
+EMP00515,Marketing,Director,27,46.0,Bachelor,94300.0,3.83,5.0,Seattle,2014-10-20,No
+EMP00516,Legal,Mid,24,56.0,Associate,96400.0,3.74,2.0,San Francisco,2014-10-23,Yes
+EMP00517,Sales,Manager,6,45.0,High School,100100.0,3.06,3.0,  new york,2014-10-27,No
+EMP00518,Operations,Manager,9,61.0,PhD,87400.0,2.86,1.0,san francisco,2014-10-30,No
+EMP00519,Engineering,Manager,23,34.0,Master,83900.0,2.59,2.0,Boston,2014-11-02,No
+EMP00520,Operations,Manager,0,60.0,Associate,123600.0,4.45,,Chicago,2014-11-06,No
+EMP00521,Finance,Junior,28,25.0,High School,94600.0,2.32,,  new york,2014-11-09,No
+EMP00522,Finance,Manager,20,33.0,Master,53900.0,2.04,4.0,San Francisco,2014-11-13,No
+EMP00523,HR,Lead,24,38.0,High School,28400.0,3.97,2.0,Boston,2014-11-16,No
+EMP00524,Engineering,Lead,27,22.0,Associate,69000.0,2.44,0.0,Seattle,2014-11-19,No
+EMP00525,Operations,Junior,3,38.0,Associate,90600.0,4.39,2.0,san francisco,2014-11-23,No
+EMP00526,HR,Manager,17,23.0,PhD,99000.0,2.31,3.0,Seattle,2014-11-26,No
+EMP00527,Finance,Senior,5,27.0,Bachelor,,3.81,1.0,New York,2014-11-30,Yes
+EMP00528,Marketing,Manager,1,32.0,High School,93200.0,1.18,4.0,san francisco,2014-12-03,Yes
+EMP00529,Engineering,Lead,2,64.0,Bachelor,103400.0,2.54,4.0,Austin,2014-12-06,No
+EMP00530,Engineering,Mid,13,39.0,Bachelor,90200.0,2.37,3.0,New York,2014-12-10,No
+EMP00531,Operations,Director,7,61.0,Master,5000.0,4.27,3.0,San Francisco,2014-12-13,No
+EMP00532,Legal,Mid,15,46.0,Master,71700.0,4.87,3.0,san francisco,2014-12-17,No
+EMP00533,Sales,Senior,18,60.0,High School,63500.0,2.84,0.0,New York,2014-12-20,No
+EMP00534,Operations,Manager,17,,Bachelor,94600.0,4.3,1.0,Boston,2014-12-24,No
+EMP00535,Marketing,Junior,5,37.0,PhD,89600.0,3.8,0.0,Chicago,2014-12-27,
+EMP00536,Legal,Manager,13,33.0,Bachelor,66800.0,4.87,3.0,Boston,2014-12-30,No
+EMP00537,Legal,Senior,2,62.0,Master,138600.0,4.24,1.0,New York,2015-01-03,No
+EMP00538,Legal,Senior,15,50.0,Bachelor,37300.0,1.31,,Austin,2015-01-06,No
+EMP00539,Marketing,Director,0,44.0,Associate,69200.0,3.85,,Boston,2015-01-10,No
+EMP00540,HR,Senior,11,42.0,Associate,55700.0,3.14,3.0,Boston,2015-01-13,Yes
+EMP00541,Engineering,Mid,29,37.0,PhD,84600.0,1.07,1.0,Boston,2015-01-16,No
+EMP00542,HR,Director,13,62.0,High School,26300.0,2.01,4.0,Austin,2015-01-20,No
+EMP00543,Marketing,Manager,18,47.0,Bachelor,106700.0,4.69,0.0,san francisco,2015-01-23,No
+EMP00544,Sales,Manager,21,58.0,Associate,100100.0,4.7,5.0,Boston,2015-01-27,Yes
+EMP00545,Engineering,Junior,18,43.0,High School,81700.0,4.2,3.0,San Francisco,2015-01-30,No
+EMP00546,Marketing,Senior,8,31.0,Associate,-1000.0,4.93,3.0,Seattle,2015-02-02,No
+EMP00547,Sales,Senior,6,28.0,High School,92900.0,,2.0,Austin,2015-02-06,No
+EMP00548,Operations,Lead,13,30.0,High School,83200.0,1.04,5.0,San Francisco,2015-02-09,No
+EMP00549,Finance,Director,4,46.0,Associate,98800.0,2.15,4.0,Austin,2015-02-13,No
+EMP00550,Legal,Lead,17,36.0,Master,71900.0,1.12,3.0,Austin,2015-02-16,No
+EMP00551,Marketing,Director,8,34.0,High School,70500.0,1.38,0.0,san francisco,2015-02-20,No
+EMP00552,Finance,Mid,20,63.0,Bachelor,101900.0,1.88,4.0,Seattle,2015-02-23,No
+EMP00553,HR,Director,6,47.0,Associate,90800.0,3.01,3.0,Chicago,2015-02-26,No
+EMP00554,Finance,Manager,8,42.0,Master,70600.0,4.39,0.0,san francisco,2015-03-02,Yes
+EMP00555,Marketing,Junior,3,44.0,Associate,84200.0,4.45,2.0,san francisco,2015-03-05,No
+EMP00556,Finance,Director,24,49.0,PhD,79600.0,3.46,2.0,San Francisco,2015-03-09,No
+EMP00557,Legal,Director,16,59.0,Bachelor,86700.0,4.71,,Austin,2015-03-12,No
+EMP00558,Engineering,Director,11,33.0,PhD,106700.0,3.0,0.0,  new york,2015-03-15,No
+EMP00559,Marketing,Junior,5,45.0,High School,66300.0,4.56,4.0,Austin,2015-03-19,Yes
+EMP00560,Sales,Senior,17,34.0,High School,58900.0,2.82,0.0,New York,2015-03-22,No
+EMP00561,Finance,Junior,7,61.0,PhD,81800.0,2.11,5.0,Boston,2015-03-26,No
+EMP00562,Engineering,Senior,20,23.0,PhD,61600.0,4.67,0.0,Chicago,2015-03-29,No
+EMP00563,Legal,Manager,14,60.0,High School,52200.0,2.55,2.0,Seattle,2015-04-01,No
+EMP00564,HR,Junior,2,,Master,99800.0,3.01,2.0,  new york,2015-04-05,No
+EMP00565,HR,Senior,1,60.0,Bachelor,67800.0,2.32,2.0,San Francisco,2015-04-08,No
+EMP00566,Legal,Manager,23,35.0,Associate,28300.0,3.65,5.0,Austin,2015-04-12,No
+EMP00567,Finance,Manager,22,51.0,PhD,96200.0,4.98,3.0,Boston,2015-04-15,No
+EMP00568,HR,Senior,8,62.0,Bachelor,64000.0,1.1,,San Francisco,2015-04-19,Yes
+EMP00569,Sales,Senior,7,,Associate,89400.0,4.6,5.0,san francisco,2015-04-22,No
+EMP00570,Marketing,Mid,26,40.0,Associate,102100.0,1.02,3.0,Seattle,2015-04-25,No
+EMP00571,Engineering,Manager,3,52.0,PhD,79700.0,2.46,5.0,Chicago,2015-04-29,No
+EMP00572,Operations,Senior,1,64.0,Master,24100.0,1.67,1.0,New York,2015-05-02,Yes
+EMP00573,Finance,Manager,13,64.0,Master,25900.0,4.03,3.0,san francisco,2015-05-06,No
+EMP00574,HR,Junior,28,46.0,Bachelor,58200.0,1.2,4.0,Chicago,2015-05-09,No
+EMP00575,Marketing,Lead,1,25.0,Bachelor,73600.0,3.21,4.0,san francisco,2015-05-12,No
+EMP00576,Operations,Lead,1,34.0,High School,105000.0,2.18,,New York,2015-05-16,No
+EMP00577,Sales,Director,29,57.0,Master,82300.0,1.53,2.0,San Francisco,2015-05-19,No
+EMP00578,HR,Senior,26,63.0,Bachelor,140400.0,4.09,5.0,Chicago,2015-05-23,No
+EMP00579,HR,Senior,27,58.0,High School,37700.0,1.87,0.0,san francisco,2015-05-26,No
+EMP00580,Engineering,Manager,21,24.0,Associate,78000.0,1.89,2.0,Chicago,2015-05-29,No
+EMP00581,Sales,Director,6,37.0,Bachelor,63900.0,2.1,,Chicago,2015-06-02,No
+EMP00582,Sales,Senior,11,,High School,80900.0,3.35,0.0,Seattle,2015-06-05,No
+EMP00583,Finance,Manager,5,61.0,Master,118800.0,3.64,5.0,San Francisco,2015-06-09,No
+EMP00584,Operations,Senior,17,60.0,Associate,120400.0,1.07,2.0,  new york,2015-06-12,No
+EMP00585,Engineering,Manager,3,40.0,Bachelor,76400.0,1.97,2.0,New York,2015-06-15,
+EMP00586,Finance,Senior,18,36.0,Master,,2.72,4.0,Chicago,2015-06-19,No
+EMP00587,Engineering,Mid,26,53.0,Associate,80400.0,2.33,0.0,San Francisco,2015-06-22,
+EMP00588,Sales,Manager,12,42.0,PhD,48100.0,4.54,1.0,  new york,2015-06-26,No
+EMP00589,Engineering,Mid,19,22.0,Master,75400.0,4.15,1.0,Boston,2015-06-29,No
+EMP00590,Engineering,Mid,20,27.0,PhD,62400.0,3.5,2.0,Seattle,2015-07-03,Yes
+EMP00591,Engineering,Mid,22,48.0,Bachelor,73400.0,2.35,5.0,Seattle,2015-07-06,No
+EMP00592,Marketing,Mid,29,44.0,High School,53700.0,3.8,2.0,Boston,2015-07-09,No
+EMP00593,Marketing,Junior,24,52.0,Bachelor,78900.0,4.37,,San Francisco,2015-07-13,Yes
+EMP00594,Operations,Director,26,33.0,Master,82600.0,3.38,4.0,New York,2015-07-16,No
+EMP00595,Operations,Lead,1,42.0,PhD,92600.0,4.14,,San Francisco,2015-07-20,
+EMP00596,Legal,Junior,7,23.0,PhD,82700.0,4.0,0.0,San Francisco,2015-07-23,No
+EMP00597,Sales,Senior,18,26.0,Associate,115900.0,3.29,,Austin,2015-07-26,No
+EMP00598,Engineering,Senior,8,30.0,Bachelor,129800.0,2.25,2.0,  new york,2015-07-30,No
+EMP00599,Sales,Director,25,41.0,Bachelor,64900.0,,,Seattle,2015-08-02,Yes
+EMP00600,Marketing,Lead,27,39.0,Master,99300.0,1.83,5.0,New York,2015-08-06,No
+EMP00601,Engineering,Lead,3,43.0,PhD,127900.0,4.12,1.0,Austin,2015-08-09,No
+EMP00602,Finance,Lead,15,29.0,Master,99900.0,4.22,0.0,Boston,2015-08-12,No
+EMP00603,Marketing,Mid,18,55.0,Master,92900.0,4.29,2.0,San Francisco,2015-08-16,No
+EMP00604,Marketing,Junior,9,30.0,PhD,29500.0,2.89,0.0,Boston,2015-08-19,Yes
+EMP00605,Marketing,Senior,5,28.0,Master,61000.0,1.77,4.0,Seattle,2015-08-23,No
+EMP00606,Legal,Junior,15,51.0,PhD,64700.0,1.4,,Austin,2015-08-26,
+EMP00607,Engineering,Junior,9,39.0,Master,109700.0,3.97,1.0,  new york,2015-08-30,Yes
+EMP00608,Operations,Junior,12,48.0,High School,56700.0,4.55,5.0,Austin,2015-09-02,No
+EMP00609,HR,Lead,8,,Master,72900.0,3.6,0.0,New York,2015-09-05,No
+EMP00610,Finance,Director,6,42.0,Master,96000.0,1.58,1.0,  new york,2015-09-09,No
+EMP00611,Finance,Director,3,26.0,High School,55600.0,,,San Francisco,2015-09-12,No
+EMP00612,Sales,Lead,18,50.0,Bachelor,82000.0,4.96,2.0,san francisco,2015-09-16,No
+EMP00613,Engineering,Senior,25,58.0,PhD,,2.73,5.0,san francisco,2015-09-19,
+EMP00614,Operations,Senior,3,64.0,Associate,96900.0,3.38,5.0,New York,2015-09-22,No
+EMP00615,Marketing,Senior,18,43.0,High School,91500.0,4.11,3.0,Austin,2015-09-26,No
+EMP00616,HR,Director,27,35.0,Bachelor,90700.0,,0.0,  new york,2015-09-29,No
+EMP00617,Engineering,Director,18,40.0,Master,80000.0,4.87,1.0,Austin,2015-10-03,No
+EMP00618,Engineering,Junior,11,56.0,Bachelor,33100.0,1.46,0.0,New York,2015-10-06,No
+EMP00619,Legal,Lead,29,45.0,High School,78500.0,3.32,2.0,Austin,2015-10-09,No
+EMP00620,Operations,Mid,12,63.0,Master,76400.0,3.77,2.0,  new york,2015-10-13,No
+EMP00621,HR,Junior,24,27.0,Bachelor,94200.0,4.56,,Chicago,2015-10-16,No
+EMP00622,Marketing,Manager,3,24.0,Associate,64400.0,4.5,5.0,Seattle,2015-10-20,No
+EMP00623,Engineering,Director,24,55.0,PhD,76000.0,4.91,5.0,San Francisco,2015-10-23,Yes
+EMP00624,Finance,Junior,27,23.0,PhD,76800.0,3.05,1.0,Seattle,2015-10-27,No
+EMP00625,Finance,Lead,9,36.0,High School,57200.0,4.32,4.0,San Francisco,2015-10-30,Yes
+EMP00626,HR,Manager,20,58.0,Master,46200.0,2.71,0.0,  new york,2015-11-02,No
+EMP00627,Marketing,Junior,6,36.0,Master,84600.0,2.69,0.0,Austin,2015-11-06,No
+EMP00628,HR,Lead,29,53.0,PhD,100200.0,2.01,2.0,san francisco,2015-11-09,No
+EMP00629,Engineering,Lead,4,42.0,Bachelor,59400.0,4.27,0.0,  new york,2015-11-13,
+EMP00630,Legal,Director,16,38.0,Master,,4.94,1.0,New York,2015-11-16,No
+EMP00631,Legal,Mid,17,55.0,Associate,95700.0,2.03,3.0,san francisco,2015-11-19,Yes
+EMP00632,Finance,Junior,10,53.0,Associate,98200.0,1.22,5.0,New York,2015-11-23,No
+EMP00633,Legal,Lead,14,44.0,Master,80800.0,4.26,2.0,Austin,2015-11-26,No
+EMP00634,Sales,Senior,20,,Master,85400.0,3.48,5.0,San Francisco,2015-11-30,No
+EMP00635,HR,Lead,21,58.0,PhD,88300.0,4.84,5.0,Austin,2015-12-03,Yes
+EMP00636,Legal,Mid,6,64.0,High School,92800.0,2.01,5.0,San Francisco,2015-12-06,No
+EMP00637,Sales,Lead,17,62.0,PhD,48200.0,1.28,3.0,Austin,2015-12-10,
+EMP00638,Sales,Director,25,58.0,High School,122900.0,2.97,0.0,san francisco,2015-12-13,No
+EMP00639,Operations,Junior,24,,Associate,81900.0,1.34,4.0,Austin,2015-12-17,No
+EMP00640,Finance,Director,5,46.0,High School,93200.0,2.05,5.0,Austin,2015-12-20,No
+EMP00641,HR,Junior,17,58.0,PhD,500000.0,1.5,1.0,san francisco,2015-12-24,No
+EMP00642,Sales,Manager,15,61.0,Master,70400.0,1.9,5.0,New York,2015-12-27,No
+EMP00643,Engineering,Junior,1,42.0,High School,84400.0,1.42,5.0,San Francisco,2015-12-30,No
+EMP00644,Legal,Manager,18,59.0,PhD,29900.0,4.82,0.0,Boston,2016-01-03,No
+EMP00645,Operations,Director,0,61.0,Associate,52500.0,2.11,,Austin,2016-01-06,No
+EMP00646,Marketing,Senior,24,55.0,High School,56900.0,2.78,1.0,Seattle,2016-01-10,No
+EMP00647,Legal,Mid,29,40.0,Associate,43000.0,4.59,0.0,Seattle,2016-01-13,No
+EMP00648,Legal,Senior,25,48.0,Associate,,3.71,5.0,  new york,2016-01-16,No
+EMP00649,Legal,Manager,10,30.0,Bachelor,73100.0,3.47,,  new york,2016-01-20,No
+EMP00650,Operations,Lead,19,26.0,High School,110600.0,3.82,0.0,New York,2016-01-23,No
+EMP00651,Marketing,Lead,4,26.0,PhD,47000.0,4.32,0.0,Chicago,2016-01-27,No
+EMP00652,Finance,Senior,15,46.0,High School,80900.0,4.51,2.0,Boston,2016-01-30,No
+EMP00653,HR,Lead,22,47.0,High School,53000.0,3.57,3.0,New York,2016-02-02,No
+EMP00654,HR,Manager,0,40.0,Associate,32100.0,4.56,,Chicago,2016-02-06,Yes
+EMP00655,Marketing,Director,18,51.0,Associate,89700.0,3.14,4.0,New York,2016-02-09,Yes
+EMP00656,Legal,Mid,13,57.0,Associate,91800.0,2.11,,  new york,2016-02-13,No
+EMP00657,Engineering,Junior,2,37.0,Associate,88800.0,4.52,3.0,Seattle,2016-02-16,No
+EMP00658,Marketing,Manager,1,28.0,PhD,42100.0,3.17,3.0,Austin,2016-02-19,No
+EMP00659,Marketing,Manager,23,39.0,Master,77100.0,4.62,1.0,San Francisco,2016-02-23,Yes
+EMP00660,HR,Junior,4,42.0,Bachelor,89900.0,1.16,2.0,  new york,2016-02-26,No
+EMP00661,Sales,Junior,16,52.0,Associate,-1000.0,2.59,2.0,Austin,2016-03-01,No
+EMP00662,Engineering,Mid,27,22.0,Associate,90700.0,4.79,0.0,Seattle,2016-03-04,No
+EMP00663,HR,Mid,17,,Bachelor,99100.0,,3.0,san francisco,2016-03-08,No
+EMP00664,Operations,Mid,0,52.0,Associate,101700.0,4.77,,San Francisco,2016-03-11,No
+EMP00665,Marketing,Lead,14,46.0,Master,77600.0,4.82,4.0,Chicago,2016-03-14,No
+EMP00666,Sales,Manager,21,29.0,High School,87500.0,4.53,1.0,Chicago,2016-03-18,No
+EMP00667,Engineering,Director,8,22.0,Bachelor,100000.0,3.25,,Seattle,2016-03-21,No
+EMP00668,Finance,Junior,26,28.0,PhD,84800.0,3.59,2.0,San Francisco,2016-03-25,No
+EMP00669,Engineering,Manager,22,28.0,Bachelor,105000.0,4.48,0.0,Austin,2016-03-28,No
+EMP00670,Engineering,Manager,4,29.0,Master,96900.0,4.1,4.0,Seattle,2016-03-31,
+EMP00671,Legal,Mid,27,40.0,PhD,,3.52,3.0,Chicago,2016-04-04,No
+EMP00672,Marketing,Mid,12,38.0,High School,42400.0,4.93,,san francisco,2016-04-07,No
+EMP00673,Marketing,Manager,18,32.0,Associate,75500.0,3.74,4.0,Seattle,2016-04-11,Yes
+EMP00674,Finance,Mid,27,62.0,Bachelor,45500.0,4.9,2.0,san francisco,2016-04-14,No
+EMP00675,Finance,Lead,27,32.0,PhD,77100.0,1.23,1.0,Austin,2016-04-17,No
+EMP00676,Finance,Junior,23,59.0,Bachelor,,1.56,,New York,2016-04-21,No
+EMP00677,HR,Manager,9,62.0,High School,107500.0,2.81,3.0,san francisco,2016-04-24,Yes
+EMP00678,HR,Junior,19,23.0,Bachelor,87600.0,2.54,1.0,san francisco,2016-04-28,Yes
+EMP00679,Marketing,Lead,24,,PhD,99400.0,4.13,5.0,Boston,2016-05-01,No
+EMP00680,Marketing,Mid,20,49.0,Master,62800.0,1.64,4.0,Boston,2016-05-05,Yes
+EMP00681,Finance,Senior,13,54.0,PhD,113200.0,4.9,4.0,  new york,2016-05-08,Yes
+EMP00682,HR,Lead,21,32.0,Bachelor,97300.0,2.26,0.0,Boston,2016-05-11,No
+EMP00683,Sales,Senior,20,24.0,High School,85700.0,,3.0,New York,2016-05-15,Yes
+EMP00684,HR,Junior,25,61.0,Associate,29800.0,2.1,4.0,Austin,2016-05-18,No
+EMP00685,Marketing,Manager,11,26.0,Associate,104500.0,3.32,2.0,  new york,2016-05-22,No
+EMP00686,HR,Mid,10,42.0,High School,119300.0,1.23,5.0,San Francisco,2016-05-25,No
+EMP00687,Marketing,Lead,22,43.0,Bachelor,75300.0,1.6,2.0,san francisco,2016-05-28,No
+EMP00688,Finance,Mid,6,58.0,High School,75800.0,3.98,1.0,Seattle,2016-06-01,No
+EMP00689,Legal,Senior,16,32.0,Bachelor,62100.0,1.75,5.0,Austin,2016-06-04,No
+EMP00690,Finance,Senior,17,43.0,PhD,34200.0,1.94,5.0,New York,2016-06-08,No
+EMP00691,Finance,Director,6,62.0,Master,60900.0,4.17,2.0,san francisco,2016-06-11,No
+EMP00692,Sales,Manager,23,34.0,Bachelor,116500.0,1.37,4.0,  new york,2016-06-14,No
+EMP00693,Legal,Senior,19,24.0,Associate,102000.0,2.75,2.0,Chicago,2016-06-18,No
+EMP00694,Sales,Manager,5,34.0,Associate,55700.0,1.09,3.0,Boston,2016-06-21,No
+EMP00695,Marketing,Director,10,49.0,Master,60500.0,2.39,1.0,Boston,2016-06-25,No
+EMP00696,Engineering,Lead,11,32.0,Bachelor,128400.0,,,Austin,2016-06-28,No
+EMP00697,Operations,Director,25,32.0,Master,49500.0,1.36,5.0,san francisco,2016-07-02,No
+EMP00698,Sales,Manager,15,42.0,PhD,57100.0,4.55,3.0,Boston,2016-07-05,No
+EMP00699,Marketing,Senior,18,42.0,Master,64300.0,4.64,4.0,Boston,2016-07-08,No
+EMP00700,Legal,Junior,22,28.0,PhD,41000.0,1.42,4.0,san francisco,2016-07-12,No
+EMP00701,HR,Manager,26,38.0,Associate,61600.0,4.96,2.0,Austin,2016-07-15,No
+EMP00702,Legal,Mid,18,35.0,PhD,,2.19,0.0,Austin,2016-07-19,No
+EMP00703,Finance,Junior,10,54.0,Bachelor,52400.0,1.34,5.0,  new york,2016-07-22,No
+EMP00704,Finance,Manager,15,32.0,Bachelor,108200.0,1.02,5.0,New York,2016-07-25,No
+EMP00705,Finance,Mid,22,34.0,Bachelor,45800.0,2.63,0.0,New York,2016-07-29,No
+EMP00706,Marketing,Director,27,22.0,Bachelor,71500.0,3.52,4.0,Boston,2016-08-01,No
+EMP00707,Finance,Junior,26,55.0,High School,53100.0,2.33,4.0,  new york,2016-08-05,No
+EMP00708,Sales,Manager,11,30.0,PhD,,4.35,,Austin,2016-08-08,No
+EMP00709,HR,Lead,26,34.0,Bachelor,51900.0,3.87,,Austin,2016-08-11,No
+EMP00710,Finance,Director,7,58.0,Master,76900.0,2.4,5.0,Boston,2016-08-15,Yes
+EMP00711,Marketing,Mid,2,51.0,Master,83000.0,3.94,,San Francisco,2016-08-18,No
+EMP00712,HR,Lead,1,62.0,High School,110100.0,4.76,,Chicago,2016-08-22,No
+EMP00713,Finance,Senior,27,58.0,PhD,60300.0,1.37,1.0,Seattle,2016-08-25,No
+EMP00714,Engineering,Director,5,28.0,PhD,115400.0,2.22,5.0,Seattle,2016-08-29,No
+EMP00715,Finance,Director,15,35.0,PhD,54800.0,2.85,4.0,san francisco,2016-09-01,No
+EMP00716,Operations,Manager,19,27.0,High School,69000.0,2.99,4.0,Boston,2016-09-04,
+EMP00717,Legal,Manager,23,55.0,PhD,119100.0,3.17,,  new york,2016-09-08,No
+EMP00718,Sales,Mid,28,37.0,PhD,147600.0,2.2,1.0,san francisco,2016-09-11,No
+EMP00719,HR,Director,14,58.0,Bachelor,117100.0,3.67,,Seattle,2016-09-15,No
+EMP00720,Sales,Manager,13,57.0,PhD,69400.0,3.58,,New York,2016-09-18,Yes
+EMP00721,Engineering,Senior,1,27.0,Bachelor,87900.0,3.31,3.0,  new york,2016-09-21,No
+EMP00722,Engineering,Manager,19,29.0,Bachelor,92100.0,1.46,3.0,san francisco,2016-09-25,No
+EMP00723,Operations,Director,17,45.0,PhD,83600.0,2.91,1.0,  new york,2016-09-28,No
+EMP00724,Sales,Junior,13,24.0,Master,49800.0,2.42,1.0,san francisco,2016-10-02,Yes
+EMP00725,HR,Lead,17,25.0,Associate,80900.0,2.96,3.0,New York,2016-10-05,No
+EMP00726,Engineering,Director,1,53.0,Master,62400.0,4.69,3.0,San Francisco,2016-10-08,No
+EMP00727,Engineering,Senior,0,22.0,PhD,50800.0,2.92,3.0,Boston,2016-10-12,No
+EMP00728,Finance,Director,19,55.0,PhD,67200.0,1.06,3.0,New York,2016-10-15,
+EMP00729,Operations,Senior,1,30.0,Master,82900.0,2.76,5.0,Boston,2016-10-19,No
+EMP00730,Legal,Director,8,33.0,PhD,100000.0,4.28,5.0,Boston,2016-10-22,No
+EMP00731,Marketing,Lead,8,31.0,Bachelor,68700.0,4.12,,san francisco,2016-10-25,No
+EMP00732,Legal,Lead,15,31.0,High School,73000.0,,2.0,  new york,2016-10-29,No
+EMP00733,Legal,Senior,10,44.0,PhD,95100.0,2.0,,Austin,2016-11-01,No
+EMP00734,Engineering,Director,26,,PhD,76800.0,2.86,1.0,Chicago,2016-11-05,No
+EMP00735,HR,Lead,22,,Master,84500.0,3.25,0.0,Chicago,2016-11-08,No
+EMP00736,HR,Mid,5,45.0,Bachelor,76900.0,5.0,2.0,Boston,2016-11-12,No
+EMP00737,Finance,Director,11,42.0,Master,80100.0,3.58,0.0,Chicago,2016-11-15,No
+EMP00738,HR,Lead,2,63.0,Master,48000.0,3.78,0.0,Chicago,2016-11-18,No
+EMP00739,Finance,Junior,29,52.0,PhD,78100.0,2.97,4.0,Seattle,2016-11-22,No
+EMP00740,Engineering,Junior,11,62.0,Bachelor,110700.0,,1.0,  new york,2016-11-25,No
+EMP00741,Engineering,Mid,29,51.0,PhD,79200.0,4.25,5.0,Seattle,2016-11-29,No
+EMP00742,Legal,Lead,22,55.0,PhD,54200.0,2.98,2.0,Austin,2016-12-02,No
+EMP00743,Engineering,Junior,0,39.0,PhD,111900.0,4.98,,San Francisco,2016-12-05,
+EMP00744,Engineering,Director,8,33.0,PhD,93000.0,2.83,1.0,  new york,2016-12-09,
+EMP00745,Marketing,Manager,19,56.0,High School,94200.0,1.27,3.0,New York,2016-12-12,No
+EMP00746,Operations,Lead,21,28.0,Associate,93500.0,3.73,1.0,san francisco,2016-12-16,No
+EMP00747,Legal,Mid,5,62.0,Bachelor,46800.0,1.19,0.0,san francisco,2016-12-19,No
+EMP00748,Legal,Lead,10,61.0,High School,91200.0,2.0,5.0,san francisco,2016-12-22,Yes
+EMP00749,Operations,Senior,2,46.0,Associate,109600.0,2.41,3.0,New York,2016-12-26,No
+EMP00750,Marketing,Senior,3,27.0,Associate,63000.0,3.96,1.0,Seattle,2016-12-29,
+EMP00751,Engineering,Junior,28,22.0,Associate,26800.0,2.98,1.0,Boston,2017-01-02,
+EMP00752,HR,Senior,26,37.0,High School,84100.0,1.11,5.0,Chicago,2017-01-05,Yes
+EMP00753,Finance,Mid,9,25.0,Bachelor,75800.0,3.47,0.0,Austin,2017-01-09,No
+EMP00754,Legal,Junior,18,50.0,Master,36300.0,2.65,,San Francisco,2017-01-12,No
+EMP00755,Operations,Mid,28,59.0,Associate,90100.0,4.69,3.0,Seattle,2017-01-15,No
+EMP00756,Sales,Director,5,49.0,Master,88300.0,3.0,0.0,Boston,2017-01-19,No
+EMP00757,Finance,Mid,0,43.0,Master,38300.0,3.84,5.0,Austin,2017-01-22,No
+EMP00758,Sales,Senior,7,,PhD,122200.0,1.88,1.0,san francisco,2017-01-26,No
+EMP00759,Sales,Director,7,53.0,Master,93800.0,,,Boston,2017-01-29,No
+EMP00760,Legal,Senior,24,54.0,PhD,27700.0,3.88,2.0,Austin,2017-02-01,No
+EMP00761,Engineering,Mid,5,34.0,Bachelor,,4.62,2.0,Seattle,2017-02-05,No
+EMP00762,Sales,Senior,16,48.0,Bachelor,94700.0,1.14,4.0,Austin,2017-02-08,No
+EMP00763,Engineering,Senior,18,39.0,PhD,110400.0,2.79,2.0,  new york,2017-02-12,No
+EMP00764,Marketing,Senior,0,39.0,Bachelor,59400.0,3.72,5.0,Chicago,2017-02-15,No
+EMP00765,HR,Lead,14,34.0,Associate,95800.0,1.38,5.0,Austin,2017-02-18,No
+EMP00766,Sales,Director,12,43.0,Bachelor,69100.0,2.64,5.0,San Francisco,2017-02-22,No
+EMP00767,Legal,Director,20,35.0,PhD,61100.0,4.77,3.0,Austin,2017-02-25,No
+EMP00768,HR,Director,2,32.0,Associate,53400.0,2.74,4.0,  new york,2017-03-01,No
+EMP00769,Engineering,Mid,29,60.0,Master,27400.0,4.94,3.0,New York,2017-03-04,No
+EMP00770,Sales,Manager,1,43.0,Master,88500.0,1.23,,  new york,2017-03-08,No
+EMP00771,Finance,Mid,2,57.0,Master,68200.0,3.87,2.0,Austin,2017-03-11,Yes
+EMP00772,Legal,Director,8,38.0,PhD,6700.0,3.32,,san francisco,2017-03-14,No
+EMP00773,Marketing,Junior,26,53.0,Master,76900.0,3.0,2.0,Boston,2017-03-18,No
+EMP00774,Operations,Senior,15,35.0,Bachelor,103900.0,4.88,1.0,san francisco,2017-03-21,No
+EMP00775,Marketing,Senior,23,63.0,Master,42300.0,1.52,3.0,san francisco,2017-03-25,No
+EMP00776,Sales,Manager,12,50.0,High School,57200.0,4.58,0.0,Seattle,2017-03-28,Yes
+EMP00777,Legal,Junior,18,27.0,High School,86000.0,3.76,,New York,2017-03-31,No
+EMP00778,Marketing,Lead,26,25.0,Master,11000.0,2.04,1.0,Seattle,2017-04-04,No
+EMP00779,Operations,Mid,17,32.0,Master,61700.0,4.61,3.0,Boston,2017-04-07,No
+EMP00780,Finance,Lead,20,61.0,High School,83700.0,,5.0,San Francisco,2017-04-11,No
+EMP00781,HR,Junior,11,31.0,Master,61000.0,4.26,4.0,Chicago,2017-04-14,No
+EMP00782,Finance,Manager,27,,Associate,42500.0,2.56,,San Francisco,2017-04-17,No
+EMP00783,Marketing,Junior,28,32.0,High School,43700.0,4.4,3.0,New York,2017-04-21,Yes
+EMP00784,Operations,Manager,11,56.0,PhD,34700.0,3.55,4.0,Boston,2017-04-24,No
+EMP00785,HR,Lead,0,36.0,High School,59200.0,1.56,,san francisco,2017-04-28,Yes
+EMP00786,Legal,Lead,19,,Bachelor,101400.0,3.6,4.0,Boston,2017-05-01,No
+EMP00787,Operations,Junior,7,41.0,Associate,134000.0,1.77,,san francisco,2017-05-04,No
+EMP00788,Finance,Junior,16,42.0,PhD,75900.0,2.65,2.0,Chicago,2017-05-08,
+EMP00789,Engineering,Senior,20,22.0,Master,94200.0,1.68,0.0,Austin,2017-05-11,Yes
+EMP00790,Engineering,Manager,27,50.0,Bachelor,51500.0,1.09,,New York,2017-05-15,No
+EMP00791,HR,Senior,19,45.0,Bachelor,,1.85,3.0,Chicago,2017-05-18,Yes
+EMP00792,HR,Mid,21,51.0,Associate,121300.0,3.15,0.0,  new york,2017-05-22,No
+EMP00793,HR,Mid,6,,PhD,60100.0,2.93,4.0,  new york,2017-05-25,No
+EMP00794,Engineering,Junior,8,56.0,Bachelor,93000.0,3.01,2.0,Seattle,2017-05-28,No
+EMP00795,Finance,Lead,16,54.0,PhD,79000.0,1.99,,san francisco,2017-06-01,No
+EMP00796,HR,Mid,26,41.0,PhD,99900.0,3.74,0.0,Chicago,2017-06-04,No
+EMP00797,Engineering,Mid,9,37.0,Bachelor,98900.0,3.82,1.0,Seattle,2017-06-08,No
+EMP00798,HR,Senior,3,30.0,PhD,81900.0,2.43,4.0,  new york,2017-06-11,No
+EMP00799,HR,Senior,21,52.0,Associate,84700.0,4.52,1.0,  new york,2017-06-14,
+EMP00800,Operations,Mid,25,38.0,Bachelor,105300.0,3.58,5.0,Seattle,2017-06-18,No
+EMP00801,HR,Junior,6,52.0,Associate,64800.0,3.85,0.0,Boston,2017-06-21,No
+EMP00802,Engineering,Senior,6,44.0,Associate,113900.0,2.11,0.0,Chicago,2017-06-25,No
+EMP00803,Finance,Mid,7,27.0,PhD,57300.0,1.0,0.0,Boston,2017-06-28,No
+EMP00804,Engineering,Lead,29,51.0,PhD,76900.0,4.46,5.0,  new york,2017-07-01,No
+EMP00805,Engineering,Senior,25,28.0,Bachelor,90700.0,4.29,3.0,Boston,2017-07-05,No
+EMP00806,HR,Mid,23,61.0,Master,34300.0,,4.0,san francisco,2017-07-08,No
+EMP00807,Operations,Manager,23,63.0,Bachelor,109500.0,2.5,4.0,San Francisco,2017-07-12,No
+EMP00808,Sales,Senior,7,,Associate,86900.0,3.65,,San Francisco,2017-07-15,No
+EMP00809,Legal,Manager,15,55.0,PhD,157500.0,3.61,,Boston,2017-07-19,No
+EMP00810,Sales,Senior,11,33.0,Associate,127000.0,4.44,,Boston,2017-07-22,No
+EMP00811,Sales,Senior,14,48.0,High School,74700.0,1.56,4.0,san francisco,2017-07-25,No
+EMP00812,Engineering,Director,7,33.0,High School,119600.0,2.72,3.0,Seattle,2017-07-29,No
+EMP00813,HR,Director,21,34.0,Associate,96200.0,1.39,0.0,Boston,2017-08-01,No
+EMP00814,Legal,Manager,8,29.0,Master,80800.0,2.56,0.0,New York,2017-08-05,No
+EMP00815,Sales,Junior,2,37.0,Master,33500.0,1.06,5.0,Chicago,2017-08-08,No
+EMP00816,Marketing,Mid,21,50.0,Bachelor,39400.0,4.59,1.0,New York,2017-08-11,No
+EMP00817,Marketing,Junior,20,56.0,Bachelor,,3.11,3.0,San Francisco,2017-08-15,No
+EMP00818,Marketing,Junior,15,50.0,Bachelor,62600.0,4.4,2.0,New York,2017-08-18,No
+EMP00819,Finance,Director,14,52.0,PhD,80600.0,1.24,3.0,Austin,2017-08-22,No
+EMP00820,HR,Mid,23,34.0,Master,,1.91,5.0,Austin,2017-08-25,
+EMP00821,Engineering,Director,3,33.0,Associate,96600.0,2.04,1.0,San Francisco,2017-08-28,No
+EMP00822,Engineering,Director,19,23.0,High School,57600.0,2.55,1.0,New York,2017-09-01,No
+EMP00823,HR,Director,28,54.0,Master,98100.0,4.21,,Chicago,2017-09-04,No
+EMP00824,Operations,Lead,15,29.0,Master,52100.0,2.55,,san francisco,2017-09-08,No
+EMP00825,Legal,Junior,9,62.0,Master,46400.0,1.82,1.0,San Francisco,2017-09-11,No
+EMP00826,Operations,Junior,10,61.0,Bachelor,84500.0,1.26,0.0,Austin,2017-09-15,Yes
+EMP00827,Finance,Junior,25,62.0,PhD,54600.0,1.32,2.0,San Francisco,2017-09-18,No
+EMP00828,HR,Lead,28,53.0,Associate,59000.0,4.04,1.0,New York,2017-09-21,No
+EMP00829,Operations,Senior,4,59.0,Bachelor,99800.0,2.78,4.0,New York,2017-09-25,No
+EMP00830,Legal,Manager,10,49.0,PhD,91400.0,3.9,0.0,New York,2017-09-28,No
+EMP00831,Finance,Manager,28,36.0,Master,65700.0,3.73,2.0,Seattle,2017-10-02,No
+EMP00832,Sales,Lead,12,44.0,PhD,34400.0,1.54,4.0,New York,2017-10-05,Yes
+EMP00833,Sales,Junior,14,45.0,Bachelor,56600.0,1.57,2.0,Boston,2017-10-08,No
+EMP00834,Finance,Manager,5,34.0,Master,123600.0,4.02,5.0,Austin,2017-10-12,No
+EMP00835,HR,Lead,15,42.0,Bachelor,99200.0,3.89,2.0,  new york,2017-10-15,No
+EMP00836,Sales,Director,14,33.0,Associate,110600.0,2.51,4.0,Austin,2017-10-19,No
+EMP00837,HR,Mid,10,34.0,Master,81400.0,1.31,3.0,Seattle,2017-10-22,No
+EMP00838,Operations,Manager,19,60.0,PhD,,1.05,2.0,Austin,2017-10-25,No
+EMP00839,Sales,Mid,1,44.0,Bachelor,97600.0,2.15,3.0,Austin,2017-10-29,Yes
+EMP00840,Legal,Junior,27,64.0,High School,107000.0,1.04,2.0,San Francisco,2017-11-01,No
+EMP00841,Legal,Manager,27,,PhD,63000.0,1.92,5.0,  new york,2017-11-05,Yes
+EMP00842,Operations,Lead,29,35.0,PhD,57200.0,2.68,4.0,  new york,2017-11-08,No
+EMP00843,Legal,Senior,1,38.0,Master,,1.49,2.0,New York,2017-11-12,No
+EMP00844,HR,Manager,11,45.0,PhD,56500.0,1.42,1.0,Boston,2017-11-15,No
+EMP00845,HR,Manager,15,55.0,Bachelor,91700.0,4.59,5.0,Boston,2017-11-18,No
+EMP00846,Legal,Manager,18,43.0,High School,60100.0,3.34,1.0,San Francisco,2017-11-22,Yes
+EMP00847,Marketing,Manager,1,31.0,Associate,500000.0,4.74,5.0,Boston,2017-11-25,Yes
+EMP00848,Finance,Lead,16,29.0,High School,124200.0,2.38,5.0,San Francisco,2017-11-29,No
+EMP00849,Engineering,Lead,13,42.0,Bachelor,75600.0,3.71,,  new york,2017-12-02,No
+EMP00850,Finance,Senior,23,58.0,Master,74600.0,1.82,2.0,  new york,2017-12-05,No
+EMP00851,Legal,Lead,27,28.0,Bachelor,88700.0,3.47,4.0,san francisco,2017-12-09,Yes
+EMP00852,HR,Lead,15,47.0,PhD,60600.0,1.52,,  new york,2017-12-12,No
+EMP00853,HR,Junior,4,34.0,Master,500000.0,1.01,4.0,Boston,2017-12-16,No
+EMP00854,Finance,Junior,9,37.0,Associate,59600.0,4.73,0.0,Austin,2017-12-19,No
+EMP00855,HR,Mid,16,51.0,Associate,46400.0,3.22,4.0,  new york,2017-12-22,Yes
+EMP00856,Operations,Senior,12,,Bachelor,97500.0,4.71,3.0,san francisco,2017-12-26,No
+EMP00857,Sales,Junior,15,26.0,PhD,62600.0,2.34,2.0,Chicago,2017-12-29,No
+EMP00858,HR,Senior,8,53.0,Associate,102800.0,2.31,1.0,New York,2018-01-02,No
+EMP00859,Legal,Senior,23,37.0,High School,5000.0,2.6,4.0,Chicago,2018-01-05,No
+EMP00860,Legal,Manager,3,30.0,Master,74400.0,3.82,1.0,Austin,2018-01-08,No
+EMP00861,Finance,Director,23,,High School,95200.0,,0.0,Seattle,2018-01-12,No
+EMP00862,Finance,Director,28,61.0,Associate,51400.0,4.7,2.0,San Francisco,2018-01-15,No
+EMP00863,Finance,Director,27,58.0,Associate,55500.0,1.1,4.0,san francisco,2018-01-19,No
+EMP00864,Legal,Senior,28,35.0,Bachelor,,3.83,,Boston,2018-01-22,No
+EMP00865,Marketing,Manager,25,37.0,Bachelor,20100.0,2.32,1.0,Boston,2018-01-26,Yes
+EMP00866,Legal,Mid,15,64.0,Master,75400.0,1.72,,Austin,2018-01-29,No
+EMP00867,Operations,Mid,22,41.0,Bachelor,89800.0,3.04,5.0,Boston,2018-02-01,Yes
+EMP00868,Legal,Director,26,36.0,PhD,107800.0,3.02,,Austin,2018-02-05,
+EMP00869,Operations,Mid,10,47.0,Master,112900.0,1.55,4.0,san francisco,2018-02-08,No
+EMP00870,Legal,Manager,6,30.0,PhD,71700.0,1.81,0.0,Chicago,2018-02-12,No
+EMP00871,Legal,Director,16,22.0,Bachelor,94300.0,2.63,,Seattle,2018-02-15,Yes
+EMP00872,Marketing,Manager,21,56.0,Master,54900.0,2.64,5.0,San Francisco,2018-02-18,No
+EMP00873,Operations,Mid,12,41.0,Associate,63900.0,2.27,1.0,Boston,2018-02-22,No
+EMP00874,Marketing,Director,3,27.0,High School,109200.0,1.59,1.0,Seattle,2018-02-25,No
+EMP00875,Operations,Manager,13,63.0,Associate,74000.0,,2.0,Seattle,2018-03-01,No
+EMP00876,Marketing,Lead,9,31.0,PhD,79000.0,,,Seattle,2018-03-04,No
+EMP00877,Marketing,Lead,9,,Associate,49200.0,4.77,,New York,2018-03-07,No
+EMP00878,Operations,Manager,9,37.0,Associate,85600.0,2.93,2.0,Seattle,2018-03-11,No
+EMP00879,Marketing,Manager,26,57.0,High School,93900.0,4.98,1.0,  new york,2018-03-14,No
+EMP00880,Legal,Junior,11,27.0,High School,93100.0,3.69,5.0,Austin,2018-03-18,Yes
+EMP00881,Operations,Junior,1,40.0,Associate,44700.0,1.28,,New York,2018-03-21,No
+EMP00882,Marketing,Senior,25,52.0,High School,100000.0,,2.0,  new york,2018-03-25,No
+EMP00883,Legal,Director,22,23.0,Associate,50000.0,4.66,1.0,New York,2018-03-28,No
+EMP00884,Legal,Senior,8,39.0,Master,74300.0,3.52,5.0,Seattle,2018-03-31,No
+EMP00885,Finance,Senior,28,63.0,Associate,34500.0,4.37,3.0,Boston,2018-04-04,No
+EMP00886,Engineering,Mid,4,49.0,Bachelor,70500.0,4.59,4.0,Boston,2018-04-07,No
+EMP00887,Operations,Lead,7,25.0,High School,49900.0,2.79,,Boston,2018-04-11,No
+EMP00888,Marketing,Mid,20,22.0,High School,63800.0,1.19,3.0,Boston,2018-04-14,No
+EMP00889,Finance,Director,13,63.0,PhD,76500.0,1.75,3.0,Austin,2018-04-17,No
+EMP00890,Engineering,Manager,6,37.0,PhD,95700.0,1.27,4.0,san francisco,2018-04-21,No
+EMP00891,Marketing,Junior,6,23.0,Bachelor,94800.0,1.75,1.0,Boston,2018-04-24,No
+EMP00892,Engineering,Director,8,57.0,High School,16600.0,2.64,1.0,San Francisco,2018-04-28,No
+EMP00893,Operations,Manager,2,22.0,High School,92000.0,1.47,2.0,Seattle,2018-05-01,No
+EMP00894,Legal,Director,13,60.0,PhD,80200.0,1.67,0.0,New York,2018-05-04,No
+EMP00895,Legal,Manager,16,44.0,PhD,61000.0,2.78,1.0,San Francisco,2018-05-08,No
+EMP00896,Engineering,Junior,17,47.0,Associate,53000.0,2.36,4.0,Boston,2018-05-11,Yes
+EMP00897,Legal,Manager,11,32.0,High School,73400.0,2.87,0.0,San Francisco,2018-05-15,No
+EMP00898,Sales,Senior,21,63.0,High School,80800.0,2.72,4.0,New York,2018-05-18,No
+EMP00899,HR,Director,13,22.0,Associate,84400.0,3.58,4.0,Boston,2018-05-22,No
+EMP00900,Legal,Junior,25,32.0,High School,500000.0,4.75,4.0,San Francisco,2018-05-25,Yes
+EMP00901,Sales,Manager,25,45.0,Bachelor,11900.0,1.43,,Austin,2018-05-28,No
+EMP00902,Operations,Senior,27,31.0,PhD,62600.0,1.4,,Austin,2018-06-01,No
+EMP00903,Operations,Senior,12,35.0,PhD,45400.0,4.41,0.0,Seattle,2018-06-04,No
+EMP00904,Engineering,Lead,13,35.0,PhD,126400.0,3.03,3.0,san francisco,2018-06-08,No
+EMP00905,Legal,Senior,8,28.0,Master,76500.0,4.07,,Seattle,2018-06-11,No
+EMP00906,Legal,Mid,18,44.0,Bachelor,93500.0,1.86,5.0,  new york,2018-06-14,No
+EMP00907,Legal,Junior,25,64.0,Bachelor,90900.0,4.32,4.0,San Francisco,2018-06-18,No
+EMP00908,Finance,Junior,1,43.0,Associate,82800.0,4.7,,New York,2018-06-21,No
+EMP00909,Marketing,Junior,10,57.0,Master,64600.0,3.54,2.0,Austin,2018-06-25,No
+EMP00910,HR,Manager,16,48.0,High School,61400.0,,1.0,Chicago,2018-06-28,Yes
+EMP00911,Legal,Director,1,23.0,Bachelor,24500.0,4.58,5.0,san francisco,2018-07-01,No
+EMP00912,Marketing,Manager,18,,Master,78600.0,4.17,1.0,Seattle,2018-07-05,No
+EMP00913,Finance,Mid,6,40.0,Master,82500.0,4.0,1.0,  new york,2018-07-08,Yes
+EMP00914,Operations,Director,17,28.0,Bachelor,73800.0,1.15,0.0,Austin,2018-07-12,No
+EMP00915,HR,Senior,12,33.0,Associate,78600.0,4.2,2.0,  new york,2018-07-15,No
+EMP00916,Sales,Manager,4,24.0,Master,44800.0,1.55,2.0,Boston,2018-07-19,
+EMP00917,Operations,Director,17,26.0,PhD,,1.89,5.0,San Francisco,2018-07-22,No
+EMP00918,Operations,Senior,22,29.0,Master,58800.0,3.31,2.0,  new york,2018-07-25,No
+EMP00919,Engineering,Director,25,35.0,High School,91600.0,2.06,2.0,san francisco,2018-07-29,No
+EMP00920,Finance,Senior,23,57.0,Bachelor,76000.0,3.65,2.0,Austin,2018-08-01,No
+EMP00921,Engineering,Director,23,28.0,High School,59000.0,3.43,5.0,Austin,2018-08-05,No
+EMP00922,Engineering,Manager,28,28.0,Associate,71000.0,1.43,3.0,San Francisco,2018-08-08,No
+EMP00923,Marketing,Manager,15,53.0,PhD,49000.0,3.62,2.0,Seattle,2018-08-11,No
+EMP00924,Operations,Mid,14,29.0,Bachelor,66800.0,4.7,,Seattle,2018-08-15,No
+EMP00925,Finance,Lead,7,33.0,Master,89600.0,1.64,2.0,Chicago,2018-08-18,Yes
+EMP00926,Engineering,Junior,25,31.0,PhD,41700.0,3.39,0.0,san francisco,2018-08-22,No
+EMP00927,Sales,Manager,14,35.0,Master,73500.0,2.37,0.0,Chicago,2018-08-25,No
+EMP00928,HR,Manager,24,30.0,Associate,56300.0,2.84,,Seattle,2018-08-28,No
+EMP00929,Legal,Senior,0,59.0,Bachelor,41700.0,2.15,2.0,Seattle,2018-09-01,No
+EMP00930,Finance,Lead,27,51.0,Associate,121600.0,2.42,3.0,san francisco,2018-09-04,No
+EMP00931,Marketing,Manager,16,26.0,Associate,106300.0,1.12,2.0,  new york,2018-09-08,No
+EMP00932,Finance,Director,29,22.0,Associate,,4.93,,san francisco,2018-09-11,No
+EMP00933,Operations,Lead,14,22.0,Associate,67800.0,3.5,2.0,Seattle,2018-09-14,No
+EMP00934,Marketing,Junior,13,41.0,Master,24400.0,3.0,2.0,Seattle,2018-09-18,Yes
+EMP00935,HR,Director,13,32.0,High School,35200.0,2.53,4.0,Austin,2018-09-21,No
+EMP00936,Sales,Senior,9,47.0,Master,46800.0,3.16,3.0,Chicago,2018-09-25,No
+EMP00937,Engineering,Mid,1,24.0,PhD,74200.0,2.52,1.0,San Francisco,2018-09-28,No
+EMP00938,Finance,Director,26,27.0,Associate,72100.0,2.44,,san francisco,2018-10-02,No
+EMP00939,Marketing,Junior,5,64.0,PhD,83300.0,,2.0,New York,2018-10-05,No
+EMP00940,HR,Director,29,32.0,Master,92000.0,2.1,,San Francisco,2018-10-08,Yes
+EMP00941,Engineering,Lead,16,29.0,Associate,82000.0,1.72,1.0,san francisco,2018-10-12,No
+EMP00942,Legal,Lead,4,50.0,Master,48000.0,3.23,3.0,Boston,2018-10-15,No
+EMP00943,HR,Junior,4,31.0,Associate,83100.0,4.37,,san francisco,2018-10-19,No
+EMP00944,Sales,Lead,14,55.0,Master,90900.0,1.61,2.0,New York,2018-10-22,No
+EMP00945,Engineering,Director,14,45.0,Bachelor,64300.0,1.13,1.0,Austin,2018-10-25,No
+EMP00946,Engineering,Mid,19,38.0,High School,28800.0,1.99,,Boston,2018-10-29,No
+EMP00947,Legal,Director,10,,High School,104600.0,,5.0,Chicago,2018-11-01,No
+EMP00948,Engineering,Mid,4,32.0,Associate,77200.0,4.32,1.0,New York,2018-11-05,No
+EMP00949,Marketing,Lead,27,55.0,Bachelor,5700.0,3.38,3.0,Seattle,2018-11-08,No
+EMP00950,Engineering,Director,0,45.0,PhD,126800.0,4.72,2.0,Boston,2018-11-11,No
+EMP00951,HR,Lead,10,26.0,Bachelor,63000.0,2.78,4.0,Austin,2018-11-15,No
+EMP00952,Marketing,Mid,10,50.0,Associate,136000.0,4.93,3.0,san francisco,2018-11-18,No
+EMP00953,Engineering,Lead,5,55.0,Bachelor,84400.0,2.19,4.0,san francisco,2018-11-22,No
+EMP00954,HR,Manager,22,37.0,PhD,69900.0,1.96,2.0,New York,2018-11-25,No
+EMP00955,HR,Senior,7,46.0,Associate,79600.0,3.55,1.0,Seattle,2018-11-29,No
+EMP00956,Finance,Director,1,58.0,High School,57300.0,2.51,5.0,Boston,2018-12-02,No
+EMP00957,HR,Manager,14,29.0,Bachelor,76500.0,3.51,5.0,Austin,2018-12-05,No
+EMP00958,Legal,Lead,22,50.0,High School,125300.0,2.22,,san francisco,2018-12-09,No
+EMP00959,Operations,Lead,21,46.0,High School,52500.0,3.47,3.0,Boston,2018-12-12,No
+EMP00960,Sales,Senior,8,63.0,Master,88300.0,2.1,3.0,New York,2018-12-16,No
+EMP00961,Engineering,Lead,14,44.0,PhD,57000.0,1.2,3.0,Seattle,2018-12-19,
+EMP00962,Legal,Senior,7,55.0,Bachelor,70800.0,4.65,0.0,Chicago,2018-12-22,No
+EMP00963,Engineering,Director,29,24.0,High School,124400.0,4.53,5.0,  new york,2018-12-26,Yes
+EMP00964,Engineering,Mid,15,51.0,High School,88200.0,4.88,5.0,Austin,2018-12-29,No
+EMP00965,HR,Senior,26,55.0,PhD,93600.0,3.87,2.0,New York,2019-01-02,Yes
+EMP00966,HR,Senior,13,53.0,High School,76800.0,3.73,0.0,san francisco,2019-01-05,No
+EMP00967,Engineering,Manager,14,50.0,High School,142400.0,3.24,3.0,Seattle,2019-01-08,No
+EMP00968,Operations,Lead,19,30.0,High School,51300.0,1.5,3.0,Chicago,2019-01-12,No
+EMP00969,Marketing,Director,29,23.0,High School,35500.0,,4.0,Boston,2019-01-15,
+EMP00970,Marketing,Mid,12,60.0,Master,,2.16,,Seattle,2019-01-19,
+EMP00971,Sales,Junior,8,28.0,Master,65500.0,4.56,0.0,  new york,2019-01-22,Yes
+EMP00972,Finance,Senior,0,26.0,Associate,85300.0,1.69,,Chicago,2019-01-26,No
+EMP00973,Legal,Junior,26,29.0,Bachelor,117900.0,4.69,1.0,New York,2019-01-29,No
+EMP00974,Sales,Lead,5,53.0,PhD,85600.0,3.09,,san francisco,2019-02-01,No
+EMP00975,Engineering,Senior,7,39.0,Associate,130800.0,3.86,5.0,Seattle,2019-02-05,No
+EMP00976,Legal,Junior,26,59.0,Master,78400.0,,2.0,  new york,2019-02-08,No
+EMP00977,Engineering,Manager,26,39.0,Master,57300.0,2.08,1.0,Seattle,2019-02-12,No
+EMP00978,Engineering,Junior,19,62.0,Master,16200.0,4.83,1.0,San Francisco,2019-02-15,No
+EMP00979,Finance,Manager,17,37.0,Associate,82500.0,2.06,2.0,Austin,2019-02-18,No
+EMP00980,HR,Mid,26,42.0,Master,19100.0,2.19,3.0,Seattle,2019-02-22,No
+EMP00981,Finance,Lead,17,31.0,Associate,,1.79,5.0,  new york,2019-02-25,No
+EMP00982,Sales,Director,25,63.0,Master,111500.0,1.52,4.0,Chicago,2019-03-01,No
+EMP00983,HR,Junior,16,25.0,High School,74600.0,1.93,3.0,Austin,2019-03-04,No
+EMP00984,HR,Senior,20,29.0,High School,79800.0,3.57,,New York,2019-03-07,No
+EMP00985,Sales,Lead,15,40.0,Bachelor,97900.0,2.82,3.0,  new york,2019-03-11,No
+EMP00986,HR,Junior,12,61.0,Master,91700.0,3.22,0.0,Austin,2019-03-14,No
+EMP00987,Legal,Senior,21,61.0,Bachelor,104000.0,1.49,1.0,San Francisco,2019-03-18,
+EMP00988,Marketing,Senior,3,30.0,Associate,74500.0,4.21,1.0,san francisco,2019-03-21,No
+EMP00989,Sales,Director,3,51.0,Bachelor,18700.0,4.14,5.0,New York,2019-03-25,No
+EMP00990,Sales,Director,20,38.0,Master,104400.0,1.09,,Seattle,2019-03-28,No
+EMP00991,Marketing,Senior,13,61.0,Associate,69000.0,2.53,1.0,  new york,2019-03-31,No
+EMP00992,Finance,Director,4,36.0,Associate,53000.0,1.28,4.0,Boston,2019-04-04,No
+EMP00993,Finance,Senior,15,25.0,High School,83400.0,4.17,4.0,New York,2019-04-07,No
+EMP00994,Finance,Junior,13,27.0,Associate,79700.0,,,  new york,2019-04-11,No
+EMP00995,HR,Mid,29,37.0,Associate,56300.0,4.61,4.0,san francisco,2019-04-14,No
+EMP00996,Marketing,Director,13,47.0,Bachelor,42900.0,1.95,2.0,san francisco,2019-04-17,No
+EMP00997,Legal,Manager,13,58.0,Associate,86700.0,2.83,,New York,2019-04-21,No
+EMP00998,Sales,Manager,24,44.0,PhD,53800.0,1.74,5.0,San Francisco,2019-04-24,No
+EMP00999,Sales,Manager,23,,High School,77900.0,2.48,4.0,Chicago,2019-04-28,Yes
+EMP01000,Sales,Mid,24,38.0,High School,84300.0,,0.0,New York,2019-05-01,No
+EMP01001,HR,Senior,28,48.0,Associate,99200.0,1.21,0.0,  new york,2019-05-04,No
+EMP01002,HR,Senior,13,43.0,Bachelor,128000.0,3.86,3.0,san francisco,2019-05-08,No
+EMP01003,Operations,Lead,18,58.0,High School,80900.0,3.17,3.0,Chicago,2019-05-11,No
+EMP01004,Legal,Manager,29,40.0,High School,64400.0,4.32,5.0,Austin,2019-05-15,No
+EMP01005,Finance,Manager,2,60.0,PhD,116500.0,2.09,,Boston,2019-05-18,No
+EMP01006,Operations,Senior,16,56.0,Associate,101200.0,4.61,3.0,San Francisco,2019-05-21,No
+EMP01007,Operations,Manager,13,34.0,High School,79200.0,4.99,3.0,san francisco,2019-05-25,No
+EMP01008,HR,Senior,9,35.0,High School,80900.0,4.68,0.0,Seattle,2019-05-28,
+EMP01009,Finance,Senior,12,52.0,High School,75700.0,4.11,3.0,san francisco,2019-06-01,No
+EMP01010,Finance,Director,21,23.0,High School,79100.0,4.25,0.0,  new york,2019-06-04,No
+EMP01011,Sales,Senior,3,,Bachelor,72500.0,3.29,4.0,  new york,2019-06-08,No
+EMP01012,HR,Junior,10,58.0,Master,50600.0,,4.0,  new york,2019-06-11,Yes
+EMP01013,Finance,Junior,14,35.0,PhD,75200.0,3.71,5.0,New York,2019-06-14,No
+EMP01014,Operations,Junior,14,30.0,Bachelor,118900.0,3.85,2.0,Boston,2019-06-18,No
+EMP01015,Marketing,Junior,29,31.0,PhD,54600.0,4.94,3.0,Boston,2019-06-21,No
+EMP01016,Marketing,Mid,23,28.0,High School,68200.0,3.17,4.0,Chicago,2019-06-25,No
+EMP01017,HR,Lead,1,49.0,PhD,52700.0,2.09,4.0,New York,2019-06-28,No
+EMP01018,Sales,Lead,10,46.0,Associate,103900.0,3.73,,  new york,2019-07-01,No
+EMP01019,Sales,Senior,1,49.0,Associate,95700.0,4.92,5.0,Boston,2019-07-05,No
+EMP01020,Finance,Manager,22,23.0,Master,43000.0,1.71,1.0,san francisco,2019-07-08,No
+EMP01021,Legal,Junior,28,38.0,Master,24500.0,2.3,1.0,  new york,2019-07-12,
+EMP01022,HR,Lead,4,25.0,PhD,96600.0,3.17,5.0,  new york,2019-07-15,No
+EMP01023,Legal,Lead,12,34.0,Bachelor,41500.0,1.68,0.0,  new york,2019-07-18,Yes
+EMP01024,Marketing,Junior,0,39.0,Bachelor,95700.0,1.09,2.0,San Francisco,2019-07-22,No
+EMP01025,Operations,Mid,6,24.0,High School,59000.0,2.35,,Seattle,2019-07-25,No
+EMP01026,Finance,Mid,6,58.0,Bachelor,92400.0,4.46,,Austin,2019-07-29,No
+EMP01027,Operations,Lead,9,54.0,Master,,1.17,5.0,san francisco,2019-08-01,No
+EMP01028,Legal,Mid,5,62.0,Bachelor,61600.0,2.72,1.0,Austin,2019-08-05,No
+EMP01029,Finance,Director,19,45.0,High School,53000.0,4.05,2.0,Chicago,2019-08-08,Yes
+EMP01030,Engineering,Junior,11,29.0,Associate,89400.0,4.81,4.0,Boston,2019-08-11,No
+EMP01031,Operations,Lead,12,56.0,Bachelor,57700.0,4.94,5.0,Austin,2019-08-15,No
+EMP01032,HR,Junior,23,23.0,Bachelor,102700.0,2.69,0.0,Chicago,2019-08-18,No
+EMP01033,Operations,Mid,27,54.0,Master,54200.0,4.8,2.0,Seattle,2019-08-22,Yes
+EMP01034,Operations,Junior,10,33.0,PhD,83800.0,1.14,1.0,  new york,2019-08-25,Yes
+EMP01035,Finance,Mid,17,43.0,Associate,65200.0,3.98,4.0,san francisco,2019-08-28,No
+EMP01036,Marketing,Mid,1,,PhD,75100.0,,5.0,san francisco,2019-09-01,No
+EMP01037,Legal,Junior,15,31.0,High School,57500.0,2.0,,New York,2019-09-04,No
+EMP01038,Engineering,Mid,1,38.0,High School,70500.0,3.03,3.0,San Francisco,2019-09-08,Yes
+EMP01039,Operations,Director,18,64.0,PhD,11000.0,1.52,,Seattle,2019-09-11,No
+EMP01040,Legal,Senior,5,26.0,Master,54700.0,4.49,,Seattle,2019-09-14,No
+EMP01041,Legal,Junior,0,30.0,Master,60300.0,2.43,4.0,Austin,2019-09-18,No
+EMP01042,Marketing,Senior,10,34.0,Master,73200.0,3.5,1.0,Austin,2019-09-21,No
+EMP01043,Sales,Junior,17,44.0,Associate,107300.0,1.64,5.0,San Francisco,2019-09-25,No
+EMP01044,Engineering,Mid,9,51.0,High School,57600.0,1.82,1.0,san francisco,2019-09-28,No
+EMP01045,Engineering,Mid,17,64.0,High School,110300.0,4.97,3.0,New York,2019-10-02,No
+EMP01046,Legal,Lead,29,25.0,High School,53500.0,4.01,,Seattle,2019-10-05,No
+EMP01047,Finance,Director,27,42.0,Associate,47300.0,4.85,4.0,Boston,2019-10-08,Yes
+EMP01048,Operations,Lead,0,64.0,High School,27900.0,2.18,2.0,Austin,2019-10-12,No
+EMP01049,Sales,Senior,18,30.0,PhD,90200.0,1.66,2.0,san francisco,2019-10-15,No
+EMP01050,Finance,Mid,15,28.0,Bachelor,77200.0,3.01,4.0,Seattle,2019-10-19,No
+EMP01051,HR,Lead,25,37.0,Associate,88700.0,2.98,2.0,New York,2019-10-22,No
+EMP01052,Marketing,Mid,6,44.0,Bachelor,78300.0,1.7,,san francisco,2019-10-25,No
+EMP01053,Marketing,Junior,14,44.0,PhD,74800.0,3.93,5.0,Chicago,2019-10-29,No
+EMP01054,Finance,Lead,28,52.0,Master,82100.0,2.45,4.0,New York,2019-11-01,Yes
+EMP01055,Legal,Senior,0,26.0,Master,128800.0,1.75,4.0,Seattle,2019-11-05,No
+EMP01056,Marketing,Lead,22,27.0,Master,-1000.0,2.33,1.0,Seattle,2019-11-08,No
+EMP01057,Operations,Mid,20,22.0,Associate,126400.0,3.25,0.0,San Francisco,2019-11-11,No
+EMP01058,Marketing,Manager,8,49.0,Master,96300.0,3.91,1.0,san francisco,2019-11-15,No
+EMP01059,Operations,Manager,1,39.0,Associate,84100.0,2.93,2.0,san francisco,2019-11-18,No
+EMP01060,HR,Director,16,45.0,Associate,88900.0,3.1,0.0,san francisco,2019-11-22,Yes
+EMP01061,Sales,Mid,24,34.0,Bachelor,-4900.0,1.56,4.0,Seattle,2019-11-25,No
+EMP01062,Engineering,Junior,23,54.0,Master,68500.0,4.66,2.0,san francisco,2019-11-29,No
+EMP01063,Finance,Lead,9,31.0,High School,58200.0,4.71,3.0,san francisco,2019-12-02,No
+EMP01064,Finance,Manager,5,28.0,Master,127800.0,3.73,2.0,Austin,2019-12-05,Yes
+EMP01065,Operations,Junior,4,58.0,Master,66500.0,1.07,0.0,Boston,2019-12-09,No
+EMP01066,HR,Mid,7,53.0,Master,74300.0,3.15,0.0,San Francisco,2019-12-12,No
+EMP01067,HR,Junior,7,43.0,High School,73800.0,3.52,4.0,Seattle,2019-12-16,No
+EMP01068,Legal,Mid,29,37.0,High School,42300.0,4.98,5.0,san francisco,2019-12-19,No
+EMP01069,Engineering,Director,4,45.0,Associate,61000.0,4.98,3.0,New York,2019-12-22,No
+EMP01070,Sales,Lead,11,35.0,High School,95400.0,4.43,4.0,Seattle,2019-12-26,
+EMP01071,Finance,Junior,6,32.0,Associate,21700.0,1.26,3.0,New York,2019-12-29,No
+EMP01072,Operations,Lead,12,40.0,Bachelor,82800.0,4.81,3.0,New York,2020-01-02,No
+EMP01073,HR,Junior,12,44.0,Associate,52500.0,3.45,4.0,Seattle,2020-01-05,No
+EMP01074,Finance,Mid,16,55.0,Master,107500.0,4.2,,New York,2020-01-08,Yes
+EMP01075,Operations,Mid,3,61.0,PhD,84900.0,2.63,2.0,Boston,2020-01-12,No
+EMP01076,Marketing,Junior,17,34.0,PhD,37000.0,2.28,1.0,Chicago,2020-01-15,No
+EMP01077,Finance,Director,9,60.0,Master,64600.0,2.85,3.0,San Francisco,2020-01-19,No
+EMP01078,Sales,Mid,2,49.0,Associate,86300.0,1.59,,Seattle,2020-01-22,No
+EMP01079,Operations,Senior,11,61.0,Master,67400.0,2.43,0.0,  new york,2020-01-25,No
+EMP01080,Sales,Senior,0,37.0,High School,78600.0,4.43,4.0,Chicago,2020-01-29,No
+EMP01081,Finance,Lead,26,49.0,Associate,74500.0,1.15,5.0,san francisco,2020-02-01,No
+EMP01082,Marketing,Senior,10,25.0,Master,96700.0,1.6,,New York,2020-02-05,Yes
+EMP01083,Sales,Senior,17,49.0,High School,,1.5,2.0,New York,2020-02-08,No
+EMP01084,HR,Director,12,33.0,High School,73800.0,2.61,,San Francisco,2020-02-12,No
+EMP01085,Operations,Director,16,37.0,Associate,75400.0,4.99,3.0,Chicago,2020-02-15,No
+EMP01086,Finance,Manager,7,57.0,Bachelor,47900.0,1.69,5.0,Chicago,2020-02-18,No
+EMP01087,Marketing,Manager,19,41.0,Bachelor,111700.0,1.58,,Seattle,2020-02-22,No
+EMP01088,HR,Director,18,47.0,High School,149100.0,4.66,2.0,san francisco,2020-02-25,Yes
+EMP01089,Finance,Manager,16,47.0,Bachelor,,4.53,,New York,2020-02-29,
+EMP01090,Legal,Director,1,43.0,High School,76200.0,1.13,4.0,  new york,2020-03-03,Yes
+EMP01091,Marketing,Manager,2,30.0,Bachelor,,,5.0,Austin,2020-03-06,
+EMP01092,HR,Mid,2,26.0,High School,100200.0,3.62,0.0,san francisco,2020-03-10,No
+EMP01093,Sales,Director,5,38.0,High School,79500.0,4.07,3.0,  new york,2020-03-13,No
+EMP01094,Finance,Lead,9,55.0,High School,50600.0,2.98,3.0,Seattle,2020-03-17,No
+EMP01095,Finance,Lead,23,23.0,High School,120500.0,4.97,5.0,Seattle,2020-03-20,No
+EMP01096,Sales,Director,21,28.0,PhD,92000.0,1.18,2.0,Seattle,2020-03-23,No
+EMP01097,Legal,Senior,17,57.0,Bachelor,80500.0,1.94,4.0,San Francisco,2020-03-27,No
+EMP01098,Engineering,Lead,17,34.0,High School,56900.0,2.59,,San Francisco,2020-03-30,Yes
+EMP01099,HR,Senior,13,41.0,Master,76400.0,2.8,,san francisco,2020-04-03,No
+EMP01100,Sales,Lead,15,51.0,Associate,29600.0,4.69,1.0,Seattle,2020-04-06,No
+EMP01101,Finance,Junior,6,51.0,Master,93500.0,3.24,3.0,Boston,2020-04-10,No
+EMP01102,HR,Junior,0,32.0,Master,99600.0,1.18,,Austin,2020-04-13,No
+EMP01103,Legal,Director,16,52.0,PhD,80700.0,2.63,0.0,Chicago,2020-04-16,No
+EMP01104,HR,Lead,22,24.0,Bachelor,51000.0,2.67,3.0,Chicago,2020-04-20,No
+EMP01105,Engineering,Mid,24,23.0,PhD,86300.0,4.86,3.0,New York,2020-04-23,Yes
+EMP01106,Finance,Senior,4,24.0,Bachelor,94700.0,3.4,1.0,Chicago,2020-04-27,Yes
+EMP01107,Marketing,Lead,26,36.0,High School,56400.0,3.54,1.0,  new york,2020-04-30,Yes
+EMP01108,Engineering,Director,0,38.0,PhD,98300.0,3.85,4.0,Chicago,2020-05-03,No
+EMP01109,Engineering,Senior,20,28.0,Associate,88100.0,4.08,,Austin,2020-05-07,No
+EMP01110,Marketing,Manager,26,26.0,Bachelor,,3.54,,Chicago,2020-05-10,No
+EMP01111,Marketing,Director,16,55.0,PhD,61100.0,1.95,3.0,  new york,2020-05-14,No
+EMP01112,Legal,Lead,9,54.0,Associate,70500.0,4.5,3.0,Austin,2020-05-17,No
+EMP01113,Legal,Mid,11,37.0,Master,50700.0,3.93,2.0,San Francisco,2020-05-20,Yes
+EMP01114,Engineering,Manager,24,58.0,High School,81500.0,3.97,2.0,Austin,2020-05-24,No
+EMP01115,HR,Director,19,24.0,High School,89000.0,4.99,,San Francisco,2020-05-27,No
+EMP01116,Sales,Lead,24,,Master,104200.0,4.21,5.0,Austin,2020-05-31,No
+EMP01117,Sales,Junior,1,42.0,PhD,82400.0,4.32,5.0,Seattle,2020-06-03,
+EMP01118,Engineering,Lead,22,62.0,Master,,4.81,0.0,  new york,2020-06-07,Yes
+EMP01119,HR,Junior,15,29.0,Associate,68300.0,1.6,,Boston,2020-06-10,No
+EMP01120,Marketing,Junior,14,43.0,Bachelor,53100.0,2.99,,san francisco,2020-06-13,No
+EMP01121,Operations,Director,27,26.0,PhD,64300.0,3.32,,San Francisco,2020-06-17,No
+EMP01122,Engineering,Lead,12,38.0,Bachelor,110700.0,2.32,0.0,San Francisco,2020-06-20,No
+EMP01123,Finance,Lead,17,58.0,Master,90900.0,4.36,2.0,Chicago,2020-06-24,No
+EMP01124,HR,Junior,27,35.0,High School,,4.05,5.0,San Francisco,2020-06-27,No
+EMP01125,Finance,Senior,19,60.0,Bachelor,29600.0,3.88,,Austin,2020-06-30,No
+EMP01126,Finance,Manager,21,62.0,Bachelor,,4.99,0.0,Seattle,2020-07-04,No
+EMP01127,Engineering,Mid,13,49.0,High School,41800.0,2.04,3.0,Seattle,2020-07-07,Yes
+EMP01128,HR,Lead,17,52.0,Bachelor,43500.0,3.94,5.0,Chicago,2020-07-11,No
+EMP01129,Finance,Manager,1,38.0,Bachelor,,3.21,1.0,Austin,2020-07-14,No
+EMP01130,Legal,Manager,1,56.0,High School,55700.0,2.25,5.0,Austin,2020-07-17,No
+EMP01131,Legal,Senior,2,61.0,High School,95800.0,1.64,3.0,New York,2020-07-21,
+EMP01132,HR,Manager,4,43.0,Master,80700.0,4.58,2.0,san francisco,2020-07-24,No
+EMP01133,Sales,Lead,24,50.0,Master,51400.0,3.38,4.0,San Francisco,2020-07-28,No
+EMP01134,Operations,Director,15,31.0,Bachelor,60500.0,4.3,4.0,Chicago,2020-07-31,No
+EMP01135,Finance,Director,21,39.0,PhD,87500.0,3.18,2.0,Seattle,2020-08-04,No
+EMP01136,Finance,Manager,14,56.0,Master,92400.0,1.88,3.0,  new york,2020-08-07,No
+EMP01137,HR,Lead,11,37.0,Master,78300.0,2.35,0.0,Boston,2020-08-10,No
+EMP01138,Legal,Lead,29,28.0,PhD,46300.0,2.53,5.0,New York,2020-08-14,No
+EMP01139,Operations,Junior,8,51.0,PhD,64700.0,4.89,5.0,san francisco,2020-08-17,No
+EMP01140,Sales,Senior,25,,High School,134500.0,1.02,0.0,Austin,2020-08-21,No
+EMP01141,Finance,Mid,13,44.0,Master,44700.0,4.94,4.0,San Francisco,2020-08-24,No
+EMP01142,Engineering,Junior,28,29.0,Associate,84400.0,4.92,,Seattle,2020-08-27,No
+EMP01143,Legal,Mid,20,38.0,Associate,128000.0,4.98,,  new york,2020-08-31,No
+EMP01144,HR,Lead,15,42.0,Bachelor,68200.0,2.91,2.0,New York,2020-09-03,No
+EMP01145,HR,Director,10,47.0,Master,120800.0,4.86,,Austin,2020-09-07,No
+EMP01146,Legal,Junior,5,49.0,Associate,57800.0,2.58,2.0,Seattle,2020-09-10,
+EMP01147,Finance,Manager,9,60.0,Master,25600.0,1.11,,Seattle,2020-09-13,No
+EMP01148,Sales,Manager,27,,Master,60500.0,1.9,1.0,Austin,2020-09-17,No
+EMP01149,Finance,Mid,7,61.0,Associate,56100.0,4.78,4.0,Austin,2020-09-20,No
+EMP01150,Legal,Lead,15,40.0,Master,,1.06,2.0,Chicago,2020-09-24,No
+EMP01151,Marketing,Director,2,50.0,PhD,64600.0,3.18,1.0,Seattle,2020-09-27,No
+EMP01152,Finance,Mid,1,41.0,Bachelor,99800.0,1.3,0.0,Austin,2020-09-30,No
+EMP01153,Operations,Director,15,41.0,High School,60100.0,2.15,4.0,Boston,2020-10-04,Yes
+EMP01154,Legal,Senior,18,31.0,Associate,65600.0,1.35,4.0,san francisco,2020-10-07,No
+EMP01155,Operations,Director,29,33.0,High School,109300.0,4.44,2.0,  new york,2020-10-11,No
+EMP01156,Legal,Manager,8,54.0,Bachelor,56300.0,3.36,2.0,  new york,2020-10-14,No
+EMP01157,Marketing,Junior,15,46.0,PhD,,4.61,3.0,Boston,2020-10-18,No
+EMP01158,Operations,Junior,21,46.0,PhD,32300.0,3.75,,  new york,2020-10-21,No
+EMP01159,Operations,Junior,25,25.0,PhD,50800.0,4.88,0.0,New York,2020-10-24,No
+EMP01160,Engineering,Director,27,25.0,PhD,69700.0,3.04,0.0,  new york,2020-10-28,No
+EMP01161,HR,Manager,3,30.0,Associate,105200.0,3.55,5.0,San Francisco,2020-10-31,No
+EMP01162,Operations,Director,9,36.0,Associate,52200.0,3.31,1.0,  new york,2020-11-04,No
+EMP01163,HR,Lead,18,47.0,Master,51900.0,2.94,1.0,Boston,2020-11-07,No
+EMP01164,Legal,Manager,12,,Master,81800.0,4.38,3.0,Chicago,2020-11-10,No
+EMP01165,Sales,Manager,17,47.0,Bachelor,85800.0,3.58,5.0,Austin,2020-11-14,Yes
+EMP01166,Finance,Director,14,49.0,Master,49100.0,,0.0,San Francisco,2020-11-17,Yes
+EMP01167,Engineering,Director,29,28.0,Bachelor,62000.0,,,Chicago,2020-11-21,Yes
+EMP01168,Legal,Junior,3,53.0,Bachelor,102200.0,1.76,,Seattle,2020-11-24,No
+EMP01169,Marketing,Manager,8,33.0,Bachelor,45500.0,3.6,,San Francisco,2020-11-27,Yes
+EMP01170,Sales,Junior,3,56.0,PhD,83500.0,1.8,,Boston,2020-12-01,No
+EMP01171,Engineering,Lead,28,53.0,High School,62100.0,3.33,1.0,Chicago,2020-12-04,No
+EMP01172,Engineering,Senior,15,30.0,High School,110100.0,3.71,0.0,Austin,2020-12-08,Yes
+EMP01173,Legal,Junior,27,35.0,Associate,89500.0,4.99,,Austin,2020-12-11,No
+EMP01174,Marketing,Director,20,34.0,Bachelor,97000.0,1.12,0.0,  new york,2020-12-15,No
+EMP01175,Marketing,Mid,14,54.0,PhD,61600.0,1.36,5.0,Chicago,2020-12-18,No
+EMP01176,HR,Senior,23,53.0,Master,95600.0,1.31,1.0,Seattle,2020-12-21,No
+EMP01177,Finance,Lead,1,40.0,Master,95000.0,2.59,2.0,  new york,2020-12-25,Yes
+EMP01178,Legal,Director,27,51.0,Associate,88000.0,4.29,2.0,Boston,2020-12-28,No
+EMP01179,Sales,Senior,26,37.0,Associate,67900.0,4.38,5.0,Chicago,2021-01-01,No
+EMP01180,Finance,Director,13,33.0,Bachelor,79100.0,3.95,1.0,New York,2021-01-04,
+EMP01181,Sales,Junior,2,31.0,Bachelor,28700.0,4.59,3.0,Chicago,2021-01-07,No
+EMP01182,Engineering,Director,21,23.0,Master,500000.0,2.29,4.0,Chicago,2021-01-11,
+EMP01183,Operations,Lead,27,39.0,Master,59900.0,1.35,5.0,Boston,2021-01-14,No
+EMP01184,Operations,Mid,22,34.0,Master,66600.0,1.23,0.0,Austin,2021-01-18,No
+EMP01185,Legal,Junior,3,50.0,Master,42100.0,4.41,5.0,  new york,2021-01-21,No
+EMP01186,Marketing,Junior,29,45.0,High School,91800.0,3.92,4.0,Seattle,2021-01-24,No
+EMP01187,Marketing,Lead,0,59.0,Bachelor,88200.0,3.79,5.0,  new york,2021-01-28,No
+EMP01188,Engineering,Lead,22,33.0,Bachelor,67600.0,2.36,1.0,Chicago,2021-01-31,Yes
+EMP01189,Engineering,Senior,27,50.0,Master,16600.0,2.52,0.0,San Francisco,2021-02-04,No
+EMP01190,Sales,Mid,8,43.0,PhD,57200.0,4.83,4.0,Austin,2021-02-07,Yes
+EMP01191,Engineering,Director,16,57.0,Master,86500.0,1.26,,Austin,2021-02-11,No
+EMP01192,Legal,Senior,13,22.0,Associate,,4.09,2.0,san francisco,2021-02-14,No
+EMP01193,Sales,Director,16,64.0,PhD,73800.0,2.24,3.0,Chicago,2021-02-17,
+EMP01194,Finance,Director,0,61.0,Associate,,1.16,5.0,Boston,2021-02-21,No
+EMP01195,Marketing,Director,9,55.0,PhD,35500.0,3.97,5.0,San Francisco,2021-02-24,No
+EMP01196,Marketing,Senior,22,55.0,Associate,99100.0,2.32,4.0,Chicago,2021-02-28,No
+EMP01197,Operations,Junior,15,54.0,Master,39000.0,,3.0,San Francisco,2021-03-03,No
+EMP01198,Operations,Lead,26,25.0,Master,69900.0,3.83,5.0,Austin,2021-03-06,No
+EMP01199,Legal,Junior,24,59.0,PhD,49100.0,3.14,2.0,San Francisco,2021-03-10,No
+EMP01200,Marketing,Mid,18,51.0,Associate,99800.0,4.11,4.0,  new york,2021-03-13,No
+EMP01201,Legal,Senior,23,41.0,High School,89600.0,3.32,1.0,Chicago,2021-03-17,No
+EMP01202,Finance,Mid,24,47.0,PhD,,2.15,0.0,New York,2021-03-20,No
+EMP01203,Finance,Lead,2,,PhD,92300.0,3.94,2.0,New York,2021-03-23,No
+EMP01204,HR,Lead,27,28.0,Bachelor,37700.0,3.36,3.0,San Francisco,2021-03-27,No
+EMP01205,Sales,Manager,11,28.0,PhD,73000.0,1.05,3.0,Boston,2021-03-30,No
+EMP01206,Operations,Mid,2,50.0,High School,48600.0,4.61,2.0,Chicago,2021-04-03,No
+EMP01207,Sales,Junior,14,44.0,Master,100600.0,3.18,,Seattle,2021-04-06,Yes
+EMP01208,Operations,Mid,16,55.0,Associate,84400.0,4.47,1.0,New York,2021-04-10,No
+EMP01209,HR,Senior,17,41.0,Bachelor,91200.0,4.53,5.0,san francisco,2021-04-13,No
+EMP01210,Marketing,Lead,6,36.0,Associate,61200.0,2.78,1.0,Austin,2021-04-16,No
+EMP01211,Legal,Lead,18,54.0,Master,93600.0,3.03,5.0,  new york,2021-04-20,No
+EMP01212,Sales,Mid,6,38.0,PhD,47100.0,2.66,5.0,Chicago,2021-04-23,No
+EMP01213,Operations,Mid,4,41.0,High School,50700.0,2.8,3.0,Chicago,2021-04-27,No
+EMP01214,Sales,Director,25,34.0,Bachelor,70600.0,4.58,5.0,  new york,2021-04-30,No
+EMP01215,Marketing,Mid,7,45.0,High School,51600.0,4.15,2.0,New York,2021-05-03,No
+EMP01216,Legal,Director,20,58.0,High School,92700.0,1.51,,  new york,2021-05-07,
+EMP01217,Engineering,Senior,15,28.0,High School,63200.0,3.44,5.0,  new york,2021-05-10,No
+EMP01218,Operations,Senior,15,29.0,High School,48000.0,4.98,2.0,Seattle,2021-05-14,No
+EMP01219,Engineering,Junior,18,44.0,Master,44700.0,3.38,0.0,san francisco,2021-05-17,Yes
+EMP01220,HR,Mid,24,35.0,High School,92400.0,4.14,3.0,  new york,2021-05-20,No
+EMP01221,Legal,Junior,14,25.0,High School,,4.08,1.0,Austin,2021-05-24,No
+EMP01222,Finance,Manager,6,42.0,Master,49700.0,2.4,4.0,Seattle,2021-05-27,No
+EMP01223,Sales,Senior,4,31.0,Associate,110100.0,2.49,1.0,Austin,2021-05-31,No
+EMP01224,Operations,Lead,22,43.0,Master,5000.0,3.9,1.0,New York,2021-06-03,No
+EMP01225,Sales,Director,10,51.0,PhD,92900.0,3.0,,Chicago,2021-06-06,No
+EMP01226,HR,Manager,9,51.0,Master,85700.0,3.28,4.0,Austin,2021-06-10,No
+EMP01227,HR,Lead,24,37.0,Associate,70200.0,3.85,,Chicago,2021-06-13,No
+EMP01228,Sales,Manager,20,32.0,PhD,33500.0,4.11,3.0,San Francisco,2021-06-17,No
+EMP01229,Operations,Junior,22,43.0,PhD,41900.0,2.09,5.0,San Francisco,2021-06-20,No
+EMP01230,Legal,Junior,26,50.0,Bachelor,41400.0,1.59,0.0,san francisco,2021-06-24,No
+EMP01231,Marketing,Director,8,,High School,87100.0,2.17,1.0,New York,2021-06-27,No
+EMP01232,Legal,Senior,0,35.0,PhD,91700.0,3.03,,san francisco,2021-06-30,Yes
+EMP01233,Marketing,Director,19,35.0,PhD,53000.0,2.37,5.0,New York,2021-07-04,No
+EMP01234,Finance,Lead,0,23.0,Associate,73000.0,3.27,1.0,Boston,2021-07-07,No
+EMP01235,Legal,Manager,7,34.0,PhD,75200.0,1.21,3.0,New York,2021-07-11,No
+EMP01236,Sales,Director,2,24.0,Associate,77000.0,3.04,3.0,San Francisco,2021-07-14,Yes
+EMP01237,Sales,Mid,1,51.0,High School,56000.0,2.47,2.0,Austin,2021-07-17,No
+EMP01238,Operations,Mid,29,39.0,Bachelor,116000.0,3.14,3.0,  new york,2021-07-21,No
+EMP01239,Sales,Senior,3,57.0,Bachelor,91900.0,2.69,3.0,  new york,2021-07-24,No
+EMP01240,Operations,Director,26,42.0,High School,76800.0,2.14,1.0,  new york,2021-07-28,No
+EMP01241,Sales,Lead,18,40.0,High School,62000.0,4.62,0.0,Seattle,2021-07-31,No
+EMP01242,HR,Mid,10,,Master,,1.74,,  new york,2021-08-03,
+EMP01243,Engineering,Senior,4,49.0,PhD,84900.0,3.73,1.0,New York,2021-08-07,No
+EMP01244,Sales,Director,28,25.0,PhD,63200.0,4.7,,  new york,2021-08-10,No
+EMP01245,Engineering,Senior,23,36.0,PhD,78300.0,3.15,5.0,Seattle,2021-08-14,
+EMP01246,Marketing,Lead,9,22.0,Associate,27500.0,4.51,,Seattle,2021-08-17,
+EMP01247,Finance,Mid,23,37.0,Master,61800.0,1.5,3.0,San Francisco,2021-08-21,No
+EMP01248,Legal,Mid,26,41.0,PhD,72300.0,2.98,2.0,Boston,2021-08-24,No
+EMP01249,Legal,Mid,22,54.0,Associate,99200.0,2.83,0.0,Austin,2021-08-27,No
+EMP01250,Marketing,Junior,7,38.0,Associate,51900.0,1.03,2.0,San Francisco,2021-08-31,No
+EMP01251,Sales,Mid,12,,Bachelor,37900.0,2.77,4.0,New York,2021-09-03,No
+EMP01252,Legal,Manager,28,26.0,Associate,86100.0,2.48,2.0,San Francisco,2021-09-07,No
+EMP01253,Operations,Junior,4,60.0,High School,73400.0,3.68,2.0,San Francisco,2021-09-10,No
+EMP01254,Marketing,Director,25,34.0,Associate,31900.0,4.75,5.0,San Francisco,2021-09-13,No
+EMP01255,HR,Junior,25,57.0,High School,33200.0,1.34,3.0,New York,2021-09-17,No
+EMP01256,Engineering,Junior,26,51.0,High School,58800.0,2.31,5.0,New York,2021-09-20,No
+EMP01257,Operations,Junior,11,25.0,Bachelor,72900.0,,3.0,san francisco,2021-09-24,No
+EMP01258,Legal,Senior,26,44.0,Bachelor,109700.0,2.82,5.0,San Francisco,2021-09-27,Yes
+EMP01259,Operations,Manager,12,42.0,Associate,48000.0,4.1,3.0,San Francisco,2021-09-30,
+EMP01260,Sales,Lead,21,42.0,Bachelor,88500.0,,,Seattle,2021-10-04,No
+EMP01261,HR,Mid,7,27.0,Bachelor,26000.0,1.11,3.0,san francisco,2021-10-07,No
+EMP01262,Engineering,Junior,14,45.0,PhD,84000.0,3.84,3.0,Austin,2021-10-11,No
+EMP01263,HR,Lead,12,52.0,Associate,112700.0,4.54,2.0,Seattle,2021-10-14,
+EMP01264,Marketing,Senior,0,40.0,Associate,78500.0,3.06,4.0,Boston,2021-10-18,No
+EMP01265,Sales,Lead,21,59.0,Associate,58300.0,3.32,3.0,Austin,2021-10-21,No
+EMP01266,Operations,Junior,5,33.0,Bachelor,105800.0,1.65,4.0,san francisco,2021-10-24,No
+EMP01267,Operations,Director,10,35.0,Bachelor,83700.0,1.88,4.0,Boston,2021-10-28,No
+EMP01268,Marketing,Manager,12,33.0,High School,78800.0,1.94,1.0,Austin,2021-10-31,No
+EMP01269,Operations,Lead,20,36.0,Master,,2.72,1.0,San Francisco,2021-11-04,No
+EMP01270,Finance,Junior,19,40.0,Master,84100.0,4.71,0.0,san francisco,2021-11-07,No
+EMP01271,Sales,Junior,0,49.0,Master,57900.0,3.09,,san francisco,2021-11-10,Yes
+EMP01272,Marketing,Mid,10,61.0,PhD,82800.0,1.77,5.0,Seattle,2021-11-14,Yes
+EMP01273,Sales,Director,25,62.0,Bachelor,76200.0,2.06,1.0,Austin,2021-11-17,No
+EMP01274,Engineering,Mid,10,26.0,High School,102100.0,2.54,3.0,Boston,2021-11-21,No
+EMP01275,Sales,Director,7,26.0,High School,60600.0,3.49,4.0,Austin,2021-11-24,No
+EMP01276,Sales,Manager,21,27.0,Master,71300.0,2.76,5.0,New York,2021-11-27,No
+EMP01277,Engineering,Mid,2,44.0,PhD,,2.57,0.0,Austin,2021-12-01,No
+EMP01278,Marketing,Manager,27,24.0,PhD,69100.0,3.26,1.0,  new york,2021-12-04,No
+EMP01279,Sales,Senior,18,58.0,Master,74500.0,,2.0,San Francisco,2021-12-08,No
+EMP01280,HR,Senior,11,54.0,Master,64800.0,1.32,,Chicago,2021-12-11,No
+EMP01281,Sales,Director,5,64.0,Bachelor,70900.0,1.1,5.0,New York,2021-12-15,No
+EMP01282,Marketing,Director,27,42.0,PhD,91800.0,2.01,0.0,Chicago,2021-12-18,No
+EMP01283,Operations,Mid,22,41.0,High School,120900.0,1.37,3.0,san francisco,2021-12-21,No
+EMP01284,Legal,Senior,7,22.0,Master,33000.0,2.35,5.0,San Francisco,2021-12-25,No
+EMP01285,Engineering,Lead,4,60.0,Bachelor,,4.09,4.0,  new york,2021-12-28,No
+EMP01286,Operations,Lead,9,38.0,High School,71500.0,3.87,3.0,san francisco,2022-01-01,No
+EMP01287,Marketing,Lead,21,50.0,PhD,76200.0,,3.0,Chicago,2022-01-04,No
+EMP01288,Finance,Senior,15,29.0,Master,69600.0,4.41,5.0,san francisco,2022-01-07,No
+EMP01289,Legal,Lead,11,47.0,Master,61200.0,,2.0,Austin,2022-01-11,No
+EMP01290,Operations,Manager,16,49.0,Bachelor,44200.0,4.54,2.0,Chicago,2022-01-14,No
+EMP01291,Sales,Junior,5,55.0,Bachelor,59700.0,2.6,5.0,Seattle,2022-01-18,No
+EMP01292,Legal,Director,8,47.0,PhD,95400.0,2.6,5.0,San Francisco,2022-01-21,No
+EMP01293,Sales,Mid,9,34.0,Master,77300.0,2.62,5.0,Seattle,2022-01-24,No
+EMP01294,Engineering,Manager,19,,Bachelor,91900.0,1.39,,Chicago,2022-01-28,No
+EMP01295,Sales,Lead,13,34.0,Master,44900.0,4.9,,san francisco,2022-01-31,No
+EMP01296,Legal,Junior,13,59.0,PhD,111100.0,1.55,4.0,  new york,2022-02-04,Yes
+EMP01297,HR,Mid,25,46.0,Master,61000.0,2.36,1.0,san francisco,2022-02-07,Yes
+EMP01298,HR,Manager,28,44.0,High School,,2.28,3.0,san francisco,2022-02-10,No
+EMP01299,Operations,Mid,16,43.0,Master,71900.0,1.3,5.0,Seattle,2022-02-14,No
+EMP01300,Marketing,Director,29,42.0,Associate,61500.0,1.61,,New York,2022-02-17,No
+EMP01301,Engineering,Senior,26,51.0,Associate,85800.0,1.18,1.0,Chicago,2022-02-21,No
+EMP01302,Finance,Lead,24,32.0,PhD,90000.0,2.17,4.0,Boston,2022-02-24,No
+EMP01303,Operations,Manager,15,25.0,PhD,142200.0,4.47,3.0,Seattle,2022-02-28,No
+EMP01304,Marketing,Manager,3,,PhD,91000.0,2.36,1.0,Austin,2022-03-03,No
+EMP01305,Engineering,Junior,1,33.0,High School,90600.0,1.49,3.0,Chicago,2022-03-06,Yes
+EMP01306,Legal,Junior,15,30.0,High School,103600.0,3.58,2.0,  new york,2022-03-10,
+EMP01307,Engineering,Junior,0,53.0,Master,88300.0,4.99,5.0,Boston,2022-03-13,No
+EMP01308,Legal,Mid,2,,Bachelor,74000.0,1.93,2.0,  new york,2022-03-17,No
+EMP01309,Operations,Lead,22,58.0,Associate,83100.0,2.12,0.0,New York,2022-03-20,No
+EMP01310,Marketing,Mid,10,45.0,Associate,96400.0,4.89,4.0,Austin,2022-03-23,No
+EMP01311,Marketing,Lead,15,28.0,Associate,109800.0,1.72,5.0,Chicago,2022-03-27,
+EMP01312,Sales,Manager,25,29.0,Master,37200.0,3.04,1.0,  new york,2022-03-30,Yes
+EMP01313,Finance,Mid,17,54.0,Master,27700.0,1.96,3.0,Austin,2022-04-03,No
+EMP01314,HR,Mid,14,46.0,PhD,108700.0,4.73,,Chicago,2022-04-06,No
+EMP01315,Sales,Mid,8,22.0,Bachelor,55100.0,4.93,0.0,Chicago,2022-04-09,No
+EMP01316,Engineering,Senior,11,24.0,PhD,33600.0,4.26,4.0,San Francisco,2022-04-13,Yes
+EMP01317,Finance,Director,28,61.0,Master,31200.0,2.26,4.0,Seattle,2022-04-16,Yes
+EMP01318,Finance,Lead,26,49.0,High School,120000.0,2.61,4.0,Chicago,2022-04-20,No
+EMP01319,Marketing,Lead,17,64.0,PhD,96900.0,1.97,1.0,New York,2022-04-23,No
+EMP01320,Finance,Mid,4,54.0,Master,55100.0,,5.0,Boston,2022-04-27,No
+EMP01321,Operations,Senior,23,22.0,Master,56200.0,4.66,2.0,Seattle,2022-04-30,No
+EMP01322,Finance,Mid,28,59.0,High School,76400.0,2.68,0.0,San Francisco,2022-05-03,No
+EMP01323,Engineering,Lead,28,48.0,High School,96500.0,3.63,1.0,Seattle,2022-05-07,No
+EMP01324,Operations,Director,27,59.0,High School,67600.0,1.66,3.0,Seattle,2022-05-10,No
+EMP01325,Operations,Director,25,56.0,Bachelor,55300.0,2.74,1.0,Chicago,2022-05-14,No
+EMP01326,Sales,Manager,7,31.0,Master,103400.0,3.53,3.0,New York,2022-05-17,No
+EMP01327,Finance,Senior,2,33.0,High School,74400.0,2.54,3.0,Chicago,2022-05-20,No
+EMP01328,Marketing,Director,1,31.0,Bachelor,70200.0,2.43,4.0,  new york,2022-05-24,No
+EMP01329,Legal,Senior,24,55.0,Associate,,1.0,1.0,New York,2022-05-27,No
+EMP01330,Sales,Mid,18,45.0,Associate,21600.0,4.22,2.0,  new york,2022-05-31,Yes
+EMP01331,Marketing,Manager,7,49.0,Associate,86900.0,4.56,3.0,New York,2022-06-03,Yes
+EMP01332,Finance,Lead,1,43.0,Master,85300.0,4.88,,Austin,2022-06-06,No
+EMP01333,Sales,Director,18,37.0,Bachelor,40500.0,3.88,4.0,Chicago,2022-06-10,Yes
+EMP01334,Finance,Director,0,,Bachelor,26500.0,3.2,2.0,san francisco,2022-06-13,No
+EMP01335,Engineering,Junior,29,57.0,Associate,60900.0,2.08,1.0,san francisco,2022-06-17,No
+EMP01336,Sales,Lead,26,57.0,PhD,79600.0,5.0,2.0,  new york,2022-06-20,No
+EMP01337,Marketing,Director,21,64.0,Associate,82100.0,3.36,1.0,San Francisco,2022-06-24,No
+EMP01338,Engineering,Director,12,44.0,Master,117600.0,3.72,3.0,Boston,2022-06-27,Yes
+EMP01339,HR,Lead,22,35.0,Associate,79600.0,3.73,0.0,san francisco,2022-06-30,No
+EMP01340,Marketing,Manager,19,53.0,Associate,40000.0,4.38,0.0,san francisco,2022-07-04,No
+EMP01341,Legal,Senior,16,24.0,Bachelor,68700.0,1.04,5.0,Seattle,2022-07-07,No
+EMP01342,Finance,Lead,2,48.0,Associate,42500.0,1.88,5.0,Austin,2022-07-11,No
+EMP01343,Marketing,Senior,8,40.0,High School,70500.0,3.66,3.0,  new york,2022-07-14,Yes
+EMP01344,HR,Manager,4,43.0,High School,,4.58,2.0,San Francisco,2022-07-17,No
+EMP01345,Marketing,Manager,5,22.0,PhD,86500.0,3.74,1.0,Boston,2022-07-21,
+EMP01346,Engineering,Mid,3,26.0,Master,57000.0,2.65,0.0,Boston,2022-07-24,Yes
+EMP01347,Operations,Junior,16,54.0,Master,89800.0,2.45,1.0,Chicago,2022-07-28,
+EMP01348,Marketing,Manager,29,40.0,Bachelor,55600.0,3.95,3.0,New York,2022-07-31,No
+EMP01349,Sales,Manager,20,57.0,Master,5900.0,3.96,2.0,  new york,2022-08-03,No
+EMP01350,Legal,Senior,20,27.0,PhD,44200.0,3.43,,Chicago,2022-08-07,No
+EMP01351,HR,Manager,20,36.0,High School,86500.0,2.17,1.0,Boston,2022-08-10,No
+EMP01352,Marketing,Lead,15,57.0,Bachelor,,4.7,2.0,Chicago,2022-08-14,No
+EMP01353,HR,Mid,15,54.0,High School,117900.0,3.21,,Austin,2022-08-17,No
+EMP01354,Operations,Mid,21,,PhD,83500.0,4.16,0.0,  new york,2022-08-21,No
+EMP01355,Engineering,Lead,10,48.0,Bachelor,108700.0,1.86,1.0,San Francisco,2022-08-24,No
+EMP01356,Sales,Director,1,32.0,Associate,90800.0,2.38,4.0,Boston,2022-08-27,No
+EMP01357,Finance,Manager,16,44.0,Master,98400.0,4.5,0.0,  new york,2022-08-31,
+EMP01358,Marketing,Junior,14,54.0,PhD,102500.0,1.2,2.0,san francisco,2022-09-03,No
+EMP01359,Engineering,Manager,17,62.0,Bachelor,87200.0,,3.0,Austin,2022-09-07,
+EMP01360,HR,Mid,28,50.0,High School,101900.0,2.93,4.0,San Francisco,2022-09-10,No
+EMP01361,Operations,Junior,9,52.0,Bachelor,57500.0,4.0,5.0,san francisco,2022-09-13,No
+EMP01362,Legal,Director,5,22.0,Associate,14300.0,2.13,1.0,Austin,2022-09-17,No
+EMP01363,HR,Senior,20,55.0,PhD,91300.0,1.88,5.0,Seattle,2022-09-20,No
+EMP01364,Legal,Senior,15,39.0,Bachelor,84400.0,4.7,0.0,New York,2022-09-24,
+EMP01365,Operations,Manager,4,,PhD,53100.0,3.29,1.0,san francisco,2022-09-27,No
+EMP01366,Legal,Manager,11,27.0,PhD,43400.0,1.42,1.0,san francisco,2022-09-30,No
+EMP01367,Operations,Junior,27,61.0,High School,78300.0,1.77,4.0,New York,2022-10-04,No
+EMP01368,Engineering,Junior,5,22.0,Master,92900.0,5.0,4.0,New York,2022-10-07,No
+EMP01369,Marketing,Director,13,63.0,Associate,-1000.0,1.78,4.0,Seattle,2022-10-11,No
+EMP01370,Finance,Manager,25,51.0,Bachelor,49500.0,3.44,4.0,Boston,2022-10-14,No
+EMP01371,Marketing,Mid,22,25.0,Master,55100.0,2.68,3.0,Boston,2022-10-17,Yes
+EMP01372,Sales,Senior,15,53.0,High School,91700.0,4.54,2.0,Seattle,2022-10-21,No
+EMP01373,Marketing,Director,24,31.0,Master,,4.02,4.0,New York,2022-10-24,No
+EMP01374,Operations,Junior,6,64.0,PhD,,3.39,0.0,New York,2022-10-28,No
+EMP01375,Operations,Mid,1,26.0,PhD,66900.0,,1.0,San Francisco,2022-10-31,No
+EMP01376,Sales,Manager,5,30.0,Associate,93500.0,4.52,5.0,San Francisco,2022-11-04,No
+EMP01377,HR,Lead,8,26.0,Bachelor,74000.0,2.78,4.0,san francisco,2022-11-07,No
+EMP01378,Operations,Junior,6,32.0,Bachelor,56900.0,4.73,0.0,Chicago,2022-11-10,Yes
+EMP01379,Sales,Director,1,56.0,High School,98200.0,2.98,3.0,san francisco,2022-11-14,No
+EMP01380,Operations,Lead,18,48.0,Associate,50200.0,3.78,0.0,  new york,2022-11-17,No
+EMP01381,Finance,Mid,7,25.0,Bachelor,76900.0,1.28,5.0,  new york,2022-11-21,No
+EMP01382,Operations,Senior,10,31.0,PhD,79400.0,3.98,5.0,  new york,2022-11-24,Yes
+EMP01383,Engineering,Mid,24,60.0,Associate,72000.0,2.35,0.0,Austin,2022-11-27,No
+EMP01384,Sales,Senior,3,54.0,Master,99800.0,2.41,3.0,San Francisco,2022-12-01,No
+EMP01385,Legal,Mid,15,59.0,Associate,,1.47,5.0,San Francisco,2022-12-04,No
+EMP01386,Marketing,Junior,24,29.0,Associate,86300.0,1.59,3.0,San Francisco,2022-12-08,No
+EMP01387,Sales,Junior,17,45.0,Bachelor,76700.0,1.74,1.0,San Francisco,2022-12-11,No
+EMP01388,HR,Director,12,60.0,High School,121400.0,,4.0,san francisco,2022-12-14,No
+EMP01389,Operations,Lead,26,54.0,High School,111600.0,4.57,5.0,Seattle,2022-12-18,No
+EMP01390,Sales,Mid,4,62.0,Bachelor,98000.0,2.47,0.0,Chicago,2022-12-21,No
+EMP01391,Finance,Mid,26,64.0,Bachelor,93900.0,3.9,2.0,San Francisco,2022-12-25,No
+EMP01392,Sales,Lead,1,,Bachelor,59900.0,1.33,2.0,Boston,2022-12-28,No
+EMP01393,Finance,Manager,10,23.0,High School,73800.0,3.36,,Austin,2023-01-01,No
+EMP01394,Operations,Director,0,,Bachelor,90900.0,2.93,1.0,  new york,2023-01-04,No
+EMP01395,Marketing,Mid,12,56.0,Master,101300.0,4.91,2.0,San Francisco,2023-01-07,No
+EMP01396,Operations,Director,29,38.0,Master,97300.0,4.38,1.0,Seattle,2023-01-11,No
+EMP01397,HR,Mid,4,63.0,PhD,89500.0,,4.0,Boston,2023-01-14,No
+EMP01398,Engineering,Mid,17,24.0,Master,125000.0,4.1,,  new york,2023-01-18,No
+EMP01399,Marketing,Manager,13,43.0,Associate,71600.0,1.77,1.0,New York,2023-01-21,
+EMP01400,Marketing,Junior,12,56.0,PhD,100300.0,3.25,3.0,san francisco,2023-01-24,No
+EMP01401,Engineering,Director,6,42.0,Master,97300.0,1.3,3.0,New York,2023-01-28,Yes
+EMP01402,Sales,Lead,7,46.0,Associate,86100.0,2.39,,  new york,2023-01-31,No
+EMP01403,Operations,Director,17,60.0,Master,87000.0,1.9,3.0,Chicago,2023-02-04,No
+EMP01404,Sales,Manager,6,23.0,Associate,86500.0,3.88,5.0,New York,2023-02-07,No
+EMP01405,Sales,Senior,19,22.0,Bachelor,57300.0,2.96,3.0,San Francisco,2023-02-10,Yes
+EMP01406,Operations,Senior,16,28.0,Associate,85000.0,4.0,3.0,  new york,2023-02-14,No
+EMP01407,HR,Manager,15,41.0,Bachelor,93700.0,3.06,3.0,Seattle,2023-02-17,No
+EMP01408,Marketing,Manager,10,,Associate,83000.0,1.35,3.0,Chicago,2023-02-21,Yes
+EMP01409,Finance,Junior,18,27.0,Associate,28900.0,3.94,5.0,Boston,2023-02-24,No
+EMP01410,Engineering,Director,26,57.0,Master,35300.0,4.33,3.0,San Francisco,2023-02-28,No
+EMP01411,Marketing,Director,27,42.0,Associate,54500.0,4.61,3.0,New York,2023-03-03,No
+EMP01412,Sales,Senior,0,56.0,Master,72200.0,3.29,4.0,Austin,2023-03-06,No
+EMP01413,Engineering,Lead,20,57.0,Associate,55900.0,4.01,5.0,san francisco,2023-03-10,No
+EMP01414,Finance,Director,28,29.0,High School,91100.0,4.01,3.0,San Francisco,2023-03-13,No
+EMP01415,Marketing,Mid,7,25.0,PhD,104800.0,1.62,1.0,Austin,2023-03-17,No
+EMP01416,Marketing,Mid,0,64.0,Master,108300.0,1.66,,Boston,2023-03-20,Yes
+EMP01417,HR,Junior,29,37.0,Master,83400.0,1.28,4.0,Austin,2023-03-23,No
+EMP01418,Marketing,Junior,8,24.0,Bachelor,102100.0,2.28,5.0,Boston,2023-03-27,No
+EMP01419,Marketing,Senior,18,28.0,High School,60900.0,2.89,2.0,Chicago,2023-03-30,No
+EMP01420,Finance,Lead,20,23.0,Bachelor,,4.99,0.0,Seattle,2023-04-03,No
+EMP01421,Finance,Lead,8,22.0,High School,45800.0,2.72,5.0,New York,2023-04-06,No
+EMP01422,Engineering,Manager,20,22.0,High School,105200.0,3.9,,san francisco,2023-04-09,Yes
+EMP01423,Sales,Junior,24,59.0,Associate,124100.0,3.77,4.0,New York,2023-04-13,No
+EMP01424,Finance,Director,9,28.0,Bachelor,66300.0,1.82,3.0,san francisco,2023-04-16,Yes
+EMP01425,Engineering,Mid,23,45.0,PhD,20700.0,1.23,4.0,San Francisco,2023-04-20,No
+EMP01426,Marketing,Director,22,26.0,High School,51100.0,3.18,0.0,  new york,2023-04-23,No
+EMP01427,Engineering,Mid,10,42.0,High School,58700.0,3.8,0.0,New York,2023-04-27,No
+EMP01428,Engineering,Senior,0,49.0,Master,41800.0,4.99,5.0,Chicago,2023-04-30,Yes
+EMP01429,Engineering,Mid,19,39.0,Associate,49200.0,2.43,3.0,New York,2023-05-03,No
+EMP01430,Operations,Director,24,,PhD,80100.0,4.59,3.0,San Francisco,2023-05-07,
+EMP01431,Engineering,Director,25,53.0,High School,91500.0,2.53,1.0,New York,2023-05-10,Yes
+EMP01432,Finance,Lead,7,54.0,Master,23400.0,3.76,0.0,Seattle,2023-05-14,No
+EMP01433,Legal,Lead,19,31.0,Bachelor,61700.0,3.39,3.0,Boston,2023-05-17,Yes
+EMP01434,Legal,Junior,11,30.0,High School,75900.0,1.21,0.0,Austin,2023-05-20,No
+EMP01435,Legal,Director,0,,Master,48300.0,1.31,1.0,Austin,2023-05-24,No
+EMP01436,Legal,Senior,9,54.0,Bachelor,80900.0,1.08,2.0,Boston,2023-05-27,No
+EMP01437,Operations,Mid,3,28.0,Associate,72100.0,2.48,0.0,Austin,2023-05-31,Yes
+EMP01438,Sales,Junior,14,25.0,Bachelor,63800.0,,1.0,Seattle,2023-06-03,No
+EMP01439,Engineering,Manager,18,49.0,High School,53400.0,1.69,1.0,Chicago,2023-06-06,No
+EMP01440,HR,Manager,5,44.0,PhD,81800.0,3.42,,San Francisco,2023-06-10,No
+EMP01441,Legal,Mid,26,53.0,Bachelor,55900.0,2.16,1.0,Seattle,2023-06-13,No
+EMP01442,Marketing,Mid,4,37.0,PhD,31700.0,4.19,4.0,San Francisco,2023-06-17,Yes
+EMP01443,Legal,Mid,4,31.0,PhD,75600.0,4.19,5.0,Chicago,2023-06-20,No
+EMP01444,Legal,Lead,17,35.0,Bachelor,44000.0,4.1,3.0,Seattle,2023-06-23,No
+EMP01445,Marketing,Mid,27,,Associate,33800.0,3.1,0.0,New York,2023-06-27,No
+EMP01446,Operations,Manager,2,57.0,Bachelor,78200.0,2.14,5.0,  new york,2023-06-30,No
+EMP01447,Marketing,Mid,26,55.0,Master,70900.0,4.24,4.0,Chicago,2023-07-04,No
+EMP01448,Marketing,Director,21,45.0,PhD,53300.0,1.74,0.0,Austin,2023-07-07,
+EMP01449,Operations,Senior,1,39.0,High School,80700.0,2.16,5.0,Seattle,2023-07-11,
+EMP01450,Marketing,Manager,3,37.0,PhD,85600.0,1.74,4.0,Chicago,2023-07-14,No
+EMP01451,Engineering,Senior,17,62.0,High School,81000.0,,3.0,Chicago,2023-07-17,No
+EMP01452,Legal,Manager,8,58.0,Master,80100.0,3.74,1.0,Seattle,2023-07-21,No
+EMP01453,Sales,Junior,18,62.0,Master,34900.0,3.61,5.0,Austin,2023-07-24,Yes
+EMP01454,Operations,Director,25,46.0,Master,107300.0,2.66,5.0,Boston,2023-07-28,No
+EMP01455,HR,Manager,9,29.0,Bachelor,88900.0,1.4,0.0,Austin,2023-07-31,No
+EMP01456,Operations,Director,21,45.0,PhD,51200.0,4.64,1.0,Chicago,2023-08-03,No
+EMP01457,Finance,Manager,14,,High School,74700.0,3.03,,San Francisco,2023-08-07,No
+EMP01458,HR,Senior,0,51.0,Master,79500.0,2.63,3.0,Boston,2023-08-10,
+EMP01459,Finance,Senior,28,,Master,74000.0,3.36,0.0,san francisco,2023-08-14,No
+EMP01460,Operations,Manager,10,39.0,High School,119800.0,1.77,2.0,Boston,2023-08-17,No
+EMP01461,Finance,Manager,13,25.0,PhD,26400.0,1.53,2.0,Chicago,2023-08-20,No
+EMP01462,HR,Lead,9,57.0,PhD,38100.0,2.62,2.0,Seattle,2023-08-24,Yes
+EMP01463,Engineering,Director,18,27.0,High School,17500.0,1.91,3.0,Seattle,2023-08-27,No
+EMP01464,Operations,Director,23,24.0,Associate,77000.0,1.98,2.0,Seattle,2023-08-31,No
+EMP01465,Operations,Director,20,39.0,PhD,88600.0,4.57,5.0,Austin,2023-09-03,No
+EMP01466,Marketing,Director,15,61.0,High School,84000.0,3.12,,New York,2023-09-07,
+EMP01467,Operations,Junior,7,39.0,High School,67800.0,2.93,0.0,Seattle,2023-09-10,No
+EMP01468,Legal,Junior,1,44.0,Master,85200.0,3.76,,Seattle,2023-09-13,No
+EMP01469,Legal,Mid,22,56.0,High School,,4.81,,Boston,2023-09-17,Yes
+EMP01470,Operations,Manager,24,27.0,Bachelor,93500.0,1.45,,San Francisco,2023-09-20,No
+EMP01471,Engineering,Manager,6,47.0,Master,102700.0,4.33,5.0,San Francisco,2023-09-24,No
+EMP01472,Marketing,Manager,18,,Master,51700.0,3.34,2.0,Chicago,2023-09-27,No
+EMP01473,Sales,Manager,6,45.0,PhD,,1.58,,Chicago,2023-09-30,No
+EMP01474,Finance,Director,14,36.0,Associate,71900.0,2.19,,Chicago,2023-10-04,No
+EMP01475,HR,Director,7,48.0,PhD,110600.0,2.93,0.0,Seattle,2023-10-07,No
+EMP01476,Sales,Junior,13,53.0,Bachelor,54700.0,3.76,5.0,San Francisco,2023-10-11,No
+EMP01477,Marketing,Senior,0,33.0,Master,102400.0,1.97,3.0,Chicago,2023-10-14,No
+EMP01478,Legal,Lead,28,26.0,Master,38300.0,3.14,1.0,san francisco,2023-10-17,
+EMP01479,Legal,Director,12,28.0,High School,106100.0,3.74,5.0,San Francisco,2023-10-21,No
+EMP01480,Legal,Director,2,43.0,Associate,96300.0,2.79,4.0,Seattle,2023-10-24,Yes
+EMP01481,Engineering,Director,20,48.0,Associate,,4.45,2.0,Boston,2023-10-28,Yes
+EMP01482,Legal,Senior,27,36.0,High School,97900.0,4.48,4.0,Seattle,2023-10-31,No
+EMP01483,HR,Senior,5,60.0,Bachelor,62500.0,2.88,1.0,Chicago,2023-11-04,No
+EMP01484,Finance,Junior,18,,Associate,51900.0,4.89,3.0,Seattle,2023-11-07,No
+EMP01485,Operations,Director,14,47.0,Master,117700.0,1.3,5.0,Seattle,2023-11-10,No
+EMP01486,Operations,Lead,3,44.0,Bachelor,61500.0,1.01,3.0,san francisco,2023-11-14,No
+EMP01487,Sales,Manager,20,34.0,PhD,91900.0,2.52,1.0,San Francisco,2023-11-17,No
+EMP01488,Finance,Director,2,47.0,PhD,102700.0,3.4,4.0,New York,2023-11-21,No
+EMP01489,Marketing,Junior,3,24.0,Bachelor,,3.52,5.0,san francisco,2023-11-24,No
+EMP01490,Finance,Junior,4,50.0,Master,90000.0,2.91,2.0,Austin,2023-11-27,No
+EMP01491,Engineering,Lead,17,23.0,PhD,92000.0,1.5,0.0,san francisco,2023-12-01,No
+EMP01492,Sales,Mid,25,49.0,Master,101400.0,1.68,,Chicago,2023-12-04,No
+EMP01493,Sales,Junior,24,44.0,High School,82900.0,,3.0,  new york,2023-12-08,No
+EMP01494,Engineering,Senior,9,57.0,Associate,,4.47,1.0,New York,2023-12-11,No
+EMP01495,Finance,Senior,7,27.0,Bachelor,,,5.0,Boston,2023-12-14,No
+EMP01496,Legal,Manager,11,32.0,Associate,83000.0,3.66,4.0,  new york,2023-12-18,No
+EMP01497,Engineering,Junior,21,59.0,High School,100700.0,3.39,2.0,Chicago,2023-12-21,No
+EMP01498,Legal,Manager,25,55.0,PhD,47500.0,,4.0,New York,2023-12-25,No
+EMP01499,HR,Junior,26,38.0,Master,69300.0,2.71,2.0,Seattle,2023-12-28,No
+EMP01500,Engineering,Lead,2,24.0,Master,85600.0,3.78,5.0,Chicago,2024-01-01,No
+EMP00816,Marketing,Mid,21,50.0,Bachelor,39400.0,4.59,1.0,New York,2017-08-11,No
+EMP00045,Operations,Director,23,63.0,Bachelor,78100.0,3.69,3.0,Austin,2010-05-31,No
+EMP01196,Marketing,Senior,22,55.0,Associate,99100.0,2.32,4.0,Chicago,2021-02-28,No
+EMP01323,Engineering,Lead,28,48.0,High School,96500.0,3.63,1.0,Seattle,2022-05-07,No
+EMP01342,Finance,Lead,2,48.0,Associate,42500.0,1.88,5.0,Austin,2022-07-11,No
+EMP00200,Legal,Director,3,32.0,Master,,4.32,2.0,Seattle,2011-11-10,No
+EMP01189,Engineering,Senior,27,50.0,Master,16600.0,2.52,0.0,San Francisco,2021-02-04,No
+EMP00341,Marketing,Director,4,61.0,High School,79700.0,2.58,,  new york,2013-03-05,No
+EMP01220,HR,Mid,24,35.0,High School,92400.0,4.14,3.0,  new york,2021-05-20,No
+EMP00896,Engineering,Junior,17,47.0,Associate,53000.0,2.36,4.0,Boston,2018-05-11,Yes
+EMP00405,HR,Lead,5,31.0,High School,75800.0,3.8,,Boston,2013-10-10,No
+EMP00840,Legal,Junior,27,64.0,High School,107000.0,1.04,2.0,San Francisco,2017-11-01,No
+EMP00352,Marketing,Lead,12,44.0,Bachelor,98600.0,3.08,1.0,  new york,2013-04-12,
+EMP00348,Operations,Director,26,61.0,Associate,67800.0,2.25,1.0,  new york,2013-03-29,No
+EMP00353,Legal,Manager,19,64.0,High School,56800.0,3.69,4.0,Austin,2013-04-15,No
+EMP00860,Legal,Manager,3,30.0,Master,74400.0,3.82,1.0,Austin,2018-01-08,No
+EMP00397,Operations,Senior,20,39.0,Bachelor,105200.0,3.9,2.0,Seattle,2013-09-12,No
+EMP00757,Finance,Mid,0,43.0,Master,38300.0,3.84,5.0,Austin,2017-01-22,No
+EMP00074,Marketing,Director,16,42.0,Associate,84600.0,1.69,1.0,Austin,2010-09-06,No
+EMP00825,Legal,Junior,9,62.0,Master,46400.0,1.82,1.0,San Francisco,2017-09-11,No
+EMP00033,Marketing,Senior,14,,Master,29900.0,4.14,3.0,San Francisco,2010-04-20,No
+EMP00758,Sales,Senior,7,,PhD,122200.0,1.88,1.0,san francisco,2017-01-26,No
+EMP00427,Operations,Senior,20,,Bachelor,95500.0,3.57,0.0,  new york,2013-12-24,No
+EMP01370,Finance,Manager,25,51.0,Bachelor,49500.0,3.44,4.0,Boston,2022-10-14,No
+EMP00035,Marketing,Junior,15,63.0,Associate,64700.0,1.74,4.0,  new york,2010-04-26,No
+EMP00197,Marketing,Director,14,58.0,Bachelor,108500.0,4.78,0.0,San Francisco,2011-10-31,
+EMP01471,Engineering,Manager,6,47.0,Master,102700.0,4.33,5.0,San Francisco,2023-09-24,No
+EMP00962,Legal,Senior,7,55.0,Bachelor,70800.0,4.65,0.0,Chicago,2018-12-22,No
+EMP00955,HR,Senior,7,46.0,Associate,79600.0,3.55,1.0,Seattle,2018-11-29,No
+EMP01010,Finance,Director,21,23.0,High School,79100.0,4.25,0.0,  new york,2019-06-04,No
+EMP00410,Operations,Manager,26,58.0,PhD,,3.88,2.0,Seattle,2013-10-27,Yes
+EMP00312,Sales,Mid,19,48.0,High School,71700.0,4.1,0.0,Seattle,2012-11-26,No
+EMP00107,Finance,Manager,22,59.0,PhD,36600.0,2.9,0.0,  new york,2010-12-28,No
+EMP01115,HR,Director,19,24.0,High School,89000.0,4.99,,San Francisco,2020-05-27,No
+EMP01167,Engineering,Director,29,28.0,Bachelor,62000.0,,,Chicago,2020-11-21,Yes
+EMP01184,Operations,Mid,22,34.0,Master,66600.0,1.23,0.0,Austin,2021-01-18,No
+EMP01190,Sales,Mid,8,43.0,PhD,57200.0,4.83,4.0,Austin,2021-02-07,Yes
+EMP01356,Sales,Director,1,32.0,Associate,90800.0,2.38,4.0,Boston,2022-08-27,No
+EMP01116,Sales,Lead,24,,Master,104200.0,4.21,5.0,Austin,2020-05-31,No
+EMP01361,Operations,Junior,9,52.0,Bachelor,57500.0,4.0,5.0,san francisco,2022-09-13,No
