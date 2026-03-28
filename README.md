@@ -3,6 +3,8 @@
 A production-ready mini data preparation studio built with Python and Streamlit. Upload messy data, clean and transform it interactively, visualize insights, and export a fully reproducible workflow — all in a browser.
 
 ---
+## Deployed URL: 
+https://aidatawrangling-8ycekxkxppw6csjq2gcs9j.streamlit.app
 
 ## Quick Start
 
